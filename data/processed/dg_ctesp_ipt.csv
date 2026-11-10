@@ -1,0 +1,7 @@
+ano_letivo_diploma,n_diplomados,pct_licenciatura_mesma_ies,pct_licenciatura_outra_ies,pct_outro_nivel,pct_nao_encontrados,fonte,relatorio_ate,relatorios_discordam,amostra_pequena
+2015/2016,5,20,0,0,80,dgeec_ctesp_2020_21,2020/2021,False,True
+2016/2017,125,46,3,0,51,dgeec_ctesp_2020_21,2020/2021,False,False
+2017/2018,85,52,4,2,42,dgeec_ctesp_2020_21,2020/2021,False,False
+2018/2019,92,58,2,0,40,dgeec_ctesp_2020_21,2020/2021,False,False
+2019/2020,99,52,6,0,42,dgeec_ctesp_2020_21,2020/2021,False,False
+2020/2021,85,47,5,4,45,dgeec_ctesp_2020_21,2020/2021,False,False

@@ -1,0 +1,61 @@
+folha,regra,afetados,detalhe
+Inscritos por Idade,4 juntar folha renomeada,1,Idades -> Inscritos por Idade
+Formas Ingresso,2 harmonizar Natureza,166,"{'Publico': 'Público', 'Privado': 'Privado'}"
+Formas Ingresso,2 harmonizar TipoEnsino,166,"{'Politecnico': 'Politécnico', 'Universitario': 'Universitário'}"
+Formas Ingresso,2 harmonizar Grau,143,{'Licenciatura 1.º ciclo': 'Licenciatura'}
+Formas Ingresso,9 sinalizar n <= 5,2,coluna NumeroInscritosPrimeiroAnoPrimeiraVez2AnosRaides; não removidas
+Percentil Entrada,2 harmonizar Natureza,161,"{'Publico': 'Público', 'Privado': 'Privado'}"
+Percentil Entrada,2 harmonizar TipoEnsino,161,"{'Politecnico': 'Politécnico', 'Universitario': 'Universitário'}"
+Percentil Entrada,2 harmonizar Grau,133,{'Licenciatura 1.º ciclo': 'Licenciatura'}
+Percentil Entrada,5 formato longo (curso x ano),526,linhas repetidas entre edições removidas; fica a edição mais recente
+Percentil Entrada,6 escala 0-1 -> 0-100,217,PercentilMedio
+Percentil Entrada,9 sinalizar n <= 5,50,coluna NumeroMatriculadosCNA; não removidas
+Situacao Apos 1 Ano,2 harmonizar Natureza,347,"{'Publico': 'Público', 'Privado': 'Privado'}"
+Situacao Apos 1 Ano,2 harmonizar TipoEnsino,347,"{'Politecnico': 'Politécnico', 'Universitario': 'Universitário'}"
+Situacao Apos 1 Ano,2 harmonizar Grau,116,{'Licenciatura 1.º ciclo': 'Licenciatura'}
+Situacao Apos 1 Ano,1 fora do âmbito (grau),110,Mestrado 2.º ciclo
+Situacao Apos 1 Ano,3 harmonizar colunas,133,PercentagemAindaInscritosCurso -> PercentagemInscritosMesmoEstabelecimentoCurso
+Situacao Apos 1 Ano,3 harmonizar colunas,133,PercentagemOutroCursoOutroEstabelecimento -> PercentagemNoutroEstabelecimento
+Situacao Apos 1 Ano,7 sem indicadores (suprimido na fonte),49,
+Situacao Apos 1 Ano,9 sinalizar n <= 5,9,coluna NumeroInscritosPrimeiroAnoPrimeiraVez2Anos; não removidas
+Classificacoes Finais,2 harmonizar Natureza,386,"{'Publico': 'Público', 'Privado': 'Privado'}"
+Classificacoes Finais,2 harmonizar TipoEnsino,386,"{'Politecnico': 'Politécnico', 'Universitario': 'Universitário'}"
+Classificacoes Finais,2 harmonizar Grau,143,{'Licenciatura 1.º ciclo': 'Licenciatura'}
+Classificacoes Finais,1 fora do âmbito (grau),111,Mestrado 2.º ciclo
+Classificacoes Finais,7 sem indicadores (suprimido na fonte),109,
+Classificacoes Finais,9 sinalizar n <= 5,30,coluna NumeroDiplomados2AnosRaides; não removidas
+Inscritos por Sexo,2 harmonizar Natureza,386,"{'Publico': 'Público', 'Privado': 'Privado'}"
+Inscritos por Sexo,2 harmonizar TipoEnsino,386,"{'Politecnico': 'Politécnico', 'Universitario': 'Universitário'}"
+Inscritos por Sexo,2 harmonizar Grau,143,{'Licenciatura 1.º ciclo': 'Licenciatura'}
+Inscritos por Sexo,1 fora do âmbito (grau),111,Mestrado 2.º ciclo
+Inscritos por Sexo,9 sinalizar n <= 5,27,coluna NumeroInscritos; não removidas
+Inscritos por Nacionalidade,2 harmonizar Natureza,386,"{'Publico': 'Público', 'Privado': 'Privado'}"
+Inscritos por Nacionalidade,2 harmonizar TipoEnsino,386,"{'Politecnico': 'Politécnico', 'Universitario': 'Universitário'}"
+Inscritos por Nacionalidade,2 harmonizar Grau,143,{'Licenciatura 1.º ciclo': 'Licenciatura'}
+Inscritos por Nacionalidade,1 fora do âmbito (grau),111,Mestrado 2.º ciclo
+Inscritos por Nacionalidade,9 sinalizar n <= 5,27,coluna NumeroInscritos; não removidas
+Desemprego Registado,2 harmonizar Natureza,141,"{'Publico': 'Público', 'Privado': 'Privado'}"
+Desemprego Registado,2 harmonizar TipoEnsino,141,"{'Politecnico': 'Politécnico', 'Universitario': 'Universitário'}"
+Desemprego Registado,3 harmonizar colunas,10,NumeroDiplomadosDesempregados (média ...) -> NumeroDiplomadosDesempregados
+Desemprego Registado,7 sem indicadores (suprimido na fonte),45,
+Desemprego Registado,8 colunas vazias/removidas,1,Observações
+Inscritos por Idade,2 harmonizar Natureza,386,"{'Publico': 'Público', 'Privado': 'Privado'}"
+Inscritos por Idade,2 harmonizar TipoEnsino,386,"{'Politecnico': 'Politécnico', 'Universitario': 'Universitário'}"
+Inscritos por Idade,2 harmonizar Grau,143,{'Licenciatura 1.º ciclo': 'Licenciatura'}
+Inscritos por Idade,1 fora do âmbito (grau),111,Mestrado 2.º ciclo
+Inscritos por Idade,9 sinalizar n <= 5,27,coluna NumeroTotalInscritos; não removidas
+Numero Inscritos,2 harmonizar Natureza,220,"{'Publico': 'Público', 'Privado': 'Privado'}"
+Numero Inscritos,2 harmonizar TipoEnsino,220,"{'Politecnico': 'Politécnico', 'Universitario': 'Universitário'}"
+Numero Inscritos,1 fora do âmbito (grau),111,Mestrado 2.º ciclo
+Numero Inscritos,5 formato longo (curso x ano),492,linhas repetidas entre edições removidas; fica a edição mais recente
+Numero Inscritos,7 anos com 0 inscritos (curso ainda não existia),113,
+Numero Inscritos,9 sinalizar n <= 5,28,coluna NumeroInscritos; não removidas
+Taxa de Conclusao,2 harmonizar Grau,34,{'Licenciatura 1.º ciclo': 'Licenciatura'}
+Taxa de Conclusao,1 fora do âmbito (grau),23,Mestrado 2.º ciclo
+Taxa de Conclusao,7 sem indicadores (suprimido na fonte),35,
+Taxa de Conclusao,9 sinalizar n <= 5,2,coluna NumeroInscritosPrimeiroAnoPrimeiraVez; não removidas
+ic_cmp_Formas Ingresso,2 harmonizar Grau,27,{'Licenciatura 1.º ciclo': 'Licenciatura'}
+ic_cmp_Situacao Apos 1 Ano,2 harmonizar Grau,27,{'Licenciatura 1.º ciclo': 'Licenciatura'}
+ic_cmp_Classificacoes Finais,2 harmonizar Grau,27,{'Licenciatura 1.º ciclo': 'Licenciatura'}
+ic_cmp_Taxa de Conclusao,2 harmonizar Grau,27,{'Licenciatura 1.º ciclo': 'Licenciatura'}
+dg_ctesp_ipt,9 sinalizar n <= 5,1,

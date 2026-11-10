@@ -1,0 +1,218 @@
+CodigoUnidadeOrganica,CodigoCurso,Grau,ano,edicao_fonte,Estabelecimento,CodigoEstabelecimento,UnidadeOrganica,Natureza,TipoEnsino,NomeCurso,PercentilMedio,NotaIngressoMedia,NumeroMatriculadosCNA,amostra_pequena
+3241,9056,Licenciatura,2015,2021,Instituto Politécnico de Tomar,3240,Escola Superior de Gestão de Tomar,Público,Politécnico,Contabilidade,30.7,13.2,4.0,True
+3241,9056,Licenciatura,2016,2022,Instituto Politécnico de Tomar,3240,Escola Superior de Gestão de Tomar,Público,Politécnico,Contabilidade,30.099999999999998,12.8,5.0,True
+3241,9056,Licenciatura,2017,2023,Instituto Politécnico de Tomar,3240,Escola Superior de Gestão de Tomar,Público,Politécnico,Contabilidade,8.200000000000001,12.0,7.0,False
+3241,9056,Licenciatura,2018,2024,Instituto Politécnico de Tomar,3240,Escola Superior de Gestão de Tomar,Público,Politécnico,Contabilidade,23.799999999999997,12.0,7.0,False
+3241,9056,Licenciatura,2019,2025,Instituto Politécnico de Tomar,3240,Escola Superior de Gestão de Tomar,Público,Politécnico,Contabilidade,19.5,12.2,14.0,False
+3241,9056,Licenciatura,2020,2026,Instituto Politécnico de Tomar,3240,Escola Superior de Gestão de Tomar,Público,Politécnico,Contabilidade,16.5,12.8,13.0,False
+3241,9056,Licenciatura,2021,2026,Instituto Politécnico de Tomar,3240,Escola Superior de Gestão de Tomar,Público,Politécnico,Contabilidade,18.099999999999998,12.9,17.0,False
+3241,9056,Licenciatura,2022,2026,Instituto Politécnico de Tomar,3240,Escola Superior de Gestão de Tomar,Público,Politécnico,Contabilidade,26.8,13.3,18.0,False
+3241,9056,Licenciatura,2023,2026,Instituto Politécnico de Tomar,3240,Escola Superior de Gestão de Tomar,Público,Politécnico,Contabilidade,18.4,12.8,16.0,False
+3241,9056,Licenciatura,2024,2026,Instituto Politécnico de Tomar,3240,Escola Superior de Gestão de Tomar,Público,Politécnico,Contabilidade,29.7,13.6,14.0,False
+3241,9056,Licenciatura,2025,2026,Instituto Politécnico de Tomar,3240,Escola Superior de Gestão de Tomar,Público,Politécnico,Contabilidade,18.7,12.9,5.0,True
+3241,9152,Licenciatura,2009,2015,Instituto Politécnico de Tomar,3240,Escola Superior de Gestão de Tomar,Público,Politécnico,Gestão de Empresas,28.50300489,,33.0,False
+3241,9152,Licenciatura,2010,2016,Instituto Politécnico de Tomar,3240,Escola Superior de Gestão de Tomar,Público,Politécnico,Gestão de Empresas,28.320080194000003,,23.0,False
+3241,9152,Licenciatura,2011,2017,Instituto Politécnico de Tomar,3240,Escola Superior de Gestão de Tomar,Público,Politécnico,Gestão de Empresas,39.4,13.3,15.0,False
+3241,9152,Licenciatura,2012,2018,Instituto Politécnico de Tomar,3240,Escola Superior de Gestão de Tomar,Público,Politécnico,Gestão de Empresas,35.5,13.0,22.0,False
+3241,9152,Licenciatura,2013,2019,Instituto Politécnico de Tomar,3240,Escola Superior de Gestão de Tomar,Público,Politécnico,Gestão de Empresas,34.8,12.7,15.0,False
+3241,9152,Licenciatura,2014,2020,Instituto Politécnico de Tomar,3240,Escola Superior de Gestão de Tomar,Público,Politécnico,Gestão de Empresas,24.8,13.6,13.0,False
+3241,9152,Licenciatura,2015,2021,Instituto Politécnico de Tomar,3240,Escola Superior de Gestão de Tomar,Público,Politécnico,Gestão de Empresas,26.5,12.3,25.0,False
+3241,9152,Licenciatura,2016,2022,Instituto Politécnico de Tomar,3240,Escola Superior de Gestão de Tomar,Público,Politécnico,Gestão de Empresas,23.9,12.2,23.0,False
+3241,9152,Licenciatura,2017,2023,Instituto Politécnico de Tomar,3240,Escola Superior de Gestão de Tomar,Público,Politécnico,Gestão de Empresas,21.8,12.2,50.0,False
+3241,9152,Licenciatura,2018,2024,Instituto Politécnico de Tomar,3240,Escola Superior de Gestão de Tomar,Público,Politécnico,Gestão de Empresas,21.7,12.4,34.0,False
+3241,9152,Licenciatura,2019,2025,Instituto Politécnico de Tomar,3240,Escola Superior de Gestão de Tomar,Público,Politécnico,Gestão de Empresas,19.900000000000002,12.0,37.0,False
+3241,9152,Licenciatura,2020,2026,Instituto Politécnico de Tomar,3240,Escola Superior de Gestão de Tomar,Público,Politécnico,Gestão de Empresas,15.0,12.2,39.0,False
+3241,9152,Licenciatura,2021,2026,Instituto Politécnico de Tomar,3240,Escola Superior de Gestão de Tomar,Público,Politécnico,Gestão de Empresas,20.3,13.1,41.0,False
+3241,9152,Licenciatura,2022,2026,Instituto Politécnico de Tomar,3240,Escola Superior de Gestão de Tomar,Público,Politécnico,Gestão de Empresas,22.5,13.1,49.0,False
+3241,9152,Licenciatura,2023,2026,Instituto Politécnico de Tomar,3240,Escola Superior de Gestão de Tomar,Público,Politécnico,Gestão de Empresas,16.0,12.9,47.0,False
+3241,9152,Licenciatura,2024,2026,Instituto Politécnico de Tomar,3240,Escola Superior de Gestão de Tomar,Público,Politécnico,Gestão de Empresas,19.3,13.0,47.0,False
+3241,9152,Licenciatura,2025,2026,Instituto Politécnico de Tomar,3240,Escola Superior de Gestão de Tomar,Público,Politécnico,Gestão de Empresas,21.099999999999998,12.4,6.0,False
+3241,9640,Licenciatura,2009,2015,Instituto Politécnico de Tomar,3240,Escola Superior de Gestão de Tomar,Público,Politécnico,Gestão de Recursos Humanos e Comportamento Organizacional,32.81181139,,29.0,False
+3241,9640,Licenciatura,2010,2016,Instituto Politécnico de Tomar,3240,Escola Superior de Gestão de Tomar,Público,Politécnico,Gestão de Recursos Humanos e Comportamento Organizacional,31.733475485,,27.0,False
+3241,9640,Licenciatura,2011,2017,Instituto Politécnico de Tomar,3240,Escola Superior de Gestão de Tomar,Público,Politécnico,Gestão de Recursos Humanos e Comportamento Organizacional,28.1,12.7,15.0,False
+3241,9640,Licenciatura,2012,2018,Instituto Politécnico de Tomar,3240,Escola Superior de Gestão de Tomar,Público,Politécnico,Gestão de Recursos Humanos e Comportamento Organizacional,17.2,12.3,11.0,False
+3241,9640,Licenciatura,2013,2019,Instituto Politécnico de Tomar,3240,Escola Superior de Gestão de Tomar,Público,Politécnico,Gestão de Recursos Humanos e Comportamento Organizacional,40.300000000000004,13.2,8.0,False
+3241,9640,Licenciatura,2014,2020,Instituto Politécnico de Tomar,3240,Escola Superior de Gestão de Tomar,Público,Politécnico,Gestão de Recursos Humanos e Comportamento Organizacional,26.200000000000003,12.7,13.0,False
+3241,9640,Licenciatura,2015,2021,Instituto Politécnico de Tomar,3240,Escola Superior de Gestão de Tomar,Público,Politécnico,Gestão de Recursos Humanos e Comportamento Organizacional,21.3,12.3,23.0,False
+3241,9640,Licenciatura,2016,2022,Instituto Politécnico de Tomar,3240,Escola Superior de Gestão de Tomar,Público,Politécnico,Gestão de Recursos Humanos e Comportamento Organizacional,29.299999999999997,12.7,24.0,False
+3241,9640,Licenciatura,2017,2023,Instituto Politécnico de Tomar,3240,Escola Superior de Gestão de Tomar,Público,Politécnico,Gestão de Recursos Humanos e Comportamento Organizacional,18.099999999999998,12.2,31.0,False
+3241,9640,Licenciatura,2018,2024,Instituto Politécnico de Tomar,3240,Escola Superior de Gestão de Tomar,Público,Politécnico,Gestão de Recursos Humanos e Comportamento Organizacional,25.6,12.6,32.0,False
+3241,9640,Licenciatura,2019,2025,Instituto Politécnico de Tomar,3240,Escola Superior de Gestão de Tomar,Público,Politécnico,Gestão de Recursos Humanos e Comportamento Organizacional,22.0,12.4,31.0,False
+3241,9640,Licenciatura,2020,2026,Instituto Politécnico de Tomar,3240,Escola Superior de Gestão de Tomar,Público,Politécnico,Gestão de Recursos Humanos e Comportamento Organizacional,34.9,13.5,38.0,False
+3241,9640,Licenciatura,2021,2026,Instituto Politécnico de Tomar,3240,Escola Superior de Gestão de Tomar,Público,Politécnico,Gestão de Recursos Humanos e Comportamento Organizacional,26.5,13.3,29.0,False
+3241,9640,Licenciatura,2022,2026,Instituto Politécnico de Tomar,3240,Escola Superior de Gestão de Tomar,Público,Politécnico,Gestão de Recursos Humanos e Comportamento Organizacional,22.900000000000002,13.5,28.0,False
+3241,9640,Licenciatura,2023,2026,Instituto Politécnico de Tomar,3240,Escola Superior de Gestão de Tomar,Público,Politécnico,Gestão de Recursos Humanos e Comportamento Organizacional,26.5,13.7,38.0,False
+3241,9640,Licenciatura,2024,2026,Instituto Politécnico de Tomar,3240,Escola Superior de Gestão de Tomar,Público,Politécnico,Gestão de Recursos Humanos e Comportamento Organizacional,26.6,13.7,39.0,False
+3241,9640,Licenciatura,2025,2026,Instituto Politécnico de Tomar,3240,Escola Superior de Gestão de Tomar,Público,Politécnico,Gestão de Recursos Humanos e Comportamento Organizacional,21.2,12.7,20.0,False
+3241,9641,Licenciatura,2009,2015,Instituto Politécnico de Tomar,3240,Escola Superior de Gestão de Tomar,Público,Politécnico,Gestão Turística e Cultural,34.058430906999995,,24.0,False
+3241,9641,Licenciatura,2010,2016,Instituto Politécnico de Tomar,3240,Escola Superior de Gestão de Tomar,Público,Politécnico,Gestão Turística e Cultural,37.952042869,,14.0,False
+3241,9641,Licenciatura,2011,2017,Instituto Politécnico de Tomar,3240,Escola Superior de Gestão de Tomar,Público,Politécnico,Gestão Turística e Cultural,41.4,12.8,8.0,False
+3241,9641,Licenciatura,2012,2018,Instituto Politécnico de Tomar,3240,Escola Superior de Gestão de Tomar,Público,Politécnico,Gestão Turística e Cultural,37.6,13.1,10.0,False
+3241,9641,Licenciatura,2013,2019,Instituto Politécnico de Tomar,3240,Escola Superior de Gestão de Tomar,Público,Politécnico,Gestão Turística e Cultural,28.1,12.3,16.0,False
+3241,9641,Licenciatura,2014,2020,Instituto Politécnico de Tomar,3240,Escola Superior de Gestão de Tomar,Público,Politécnico,Gestão Turística e Cultural,30.7,12.6,20.0,False
+3241,9641,Licenciatura,2015,2020,Instituto Politécnico de Tomar,3240,Escola Superior de Gestão de Tomar,Público,Politécnico,Gestão Turística e Cultural,27.400000000000002,12.5,15.0,False
+3241,9641,Licenciatura,2016,2020,Instituto Politécnico de Tomar,3240,Escola Superior de Gestão de Tomar,Público,Politécnico,Gestão Turística e Cultural,28.499999999999996,12.3,18.0,False
+3241,9641,Licenciatura,2017,2020,Instituto Politécnico de Tomar,3240,Escola Superior de Gestão de Tomar,Público,Politécnico,Gestão Turística e Cultural,17.4,11.9,24.0,False
+3241,9641,Licenciatura,2018,2020,Instituto Politécnico de Tomar,3240,Escola Superior de Gestão de Tomar,Público,Politécnico,Gestão Turística e Cultural,14.2,11.6,21.0,False
+3241,9641,Licenciatura,2019,2020,Instituto Politécnico de Tomar,3240,Escola Superior de Gestão de Tomar,Público,Politécnico,Gestão Turística e Cultural,23.599999999999998,12.6,19.0,False
+3241,L207,Licenciatura,2020,2026,Instituto Politécnico de Tomar,3240,Escola Superior de Gestão de Tomar,Público,Politécnico,Turismo e Gestão do Património Cultural,21.4,12.9,18.0,False
+3241,L207,Licenciatura,2021,2026,Instituto Politécnico de Tomar,3240,Escola Superior de Gestão de Tomar,Público,Politécnico,Turismo e Gestão do Património Cultural,14.2,12.9,15.0,False
+3241,L207,Licenciatura,2022,2026,Instituto Politécnico de Tomar,3240,Escola Superior de Gestão de Tomar,Público,Politécnico,Turismo e Gestão do Património Cultural,20.4,13.0,28.0,False
+3241,L207,Licenciatura,2023,2026,Instituto Politécnico de Tomar,3240,Escola Superior de Gestão de Tomar,Público,Politécnico,Turismo e Gestão do Património Cultural,28.7,13.7,14.0,False
+3241,L207,Licenciatura,2024,2026,Instituto Politécnico de Tomar,3240,Escola Superior de Gestão de Tomar,Público,Politécnico,Turismo e Gestão do Património Cultural,11.799999999999999,12.5,23.0,False
+3241,L207,Licenciatura,2025,2026,Instituto Politécnico de Tomar,3240,Escola Superior de Gestão de Tomar,Público,Politécnico,Turismo e Gestão do Património Cultural,25.5,12.7,5.0,True
+3242,9089,Licenciatura,2009,2015,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,Público,Politécnico,Engenharia Civil,25.846101279,,23.0,False
+3242,9089,Licenciatura,2010,2015,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,Público,Politécnico,Engenharia Civil,20.508435012,,15.0,False
+3242,9089,Licenciatura,2011,2015,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,Público,Politécnico,Engenharia Civil,31.355932203,,1.0,True
+3242,9112,Licenciatura,2009,2015,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,Público,Politécnico,Engenharia Electrotécnica e de Computadores,17.736068101,,19.0,False
+3242,9112,Licenciatura,2010,2016,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,Público,Politécnico,Engenharia Electrotécnica e de Computadores,29.276892316,,14.0,False
+3242,9112,Licenciatura,2011,2017,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,Público,Politécnico,Engenharia Electrotécnica e de Computadores,28.599999999999998,13.5,3.0,True
+3242,9112,Licenciatura,2012,2017,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,Público,Politécnico,Engenharia Electrotécnica e de Computadores,20.3,13.3,1.0,True
+3242,9112,Licenciatura,2014,2017,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,Público,Politécnico,Engenharia Electrotécnica e de Computadores,14.7,12.4,4.0,True
+3242,9112,Licenciatura,2015,2017,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,Público,Politécnico,Engenharia Electrotécnica e de Computadores,32.9,13.9,4.0,True
+3242,9112,Licenciatura,2016,2017,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,Público,Politécnico,Engenharia Electrotécnica e de Computadores,25.6,12.7,3.0,True
+3242,9112,Licenciatura,2018,2019,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,Público,Politécnico,Engenharia Electrotécnica e de Computadores,12.3,13.0,1.0,True
+3242,9112,Licenciatura,2020,2021,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,Público,Politécnico,Engenharia Electrotécnica e de Computadores,22.7,13.4,2.0,True
+3242,9112,Licenciatura,2022,2023,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,Público,Politécnico,Engenharia Electrotécnica e de Computadores,14.2,13.4,1.0,True
+3242,9112,Licenciatura,2024,2026,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,Público,Politécnico,Engenharia Electrotécnica e de Computadores,44.6,15.4,1.0,True
+3242,9112,Licenciatura,2025,2026,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,Público,Politécnico,Engenharia Electrotécnica e de Computadores,27.0,13.9,4.0,True
+3242,9119,Licenciatura,2009,2015,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,Público,Politécnico,Engenharia Informática,23.216557814999998,,42.0,False
+3242,9119,Licenciatura,2010,2016,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,Público,Politécnico,Engenharia Informática,23.178439833,,10.0,False
+3242,9119,Licenciatura,2011,2017,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,Público,Politécnico,Engenharia Informática,18.4,12.9,13.0,False
+3242,9119,Licenciatura,2012,2018,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,Público,Politécnico,Engenharia Informática,22.5,12.3,14.0,False
+3242,9119,Licenciatura,2013,2019,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,Público,Politécnico,Engenharia Informática,24.7,11.7,5.0,True
+3242,9119,Licenciatura,2014,2020,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,Público,Politécnico,Engenharia Informática,17.7,12.5,13.0,False
+3242,9119,Licenciatura,2015,2021,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,Público,Politécnico,Engenharia Informática,16.900000000000002,12.2,38.0,False
+3242,9119,Licenciatura,2016,2022,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,Público,Politécnico,Engenharia Informática,18.0,12.6,41.0,False
+3242,9119,Licenciatura,2017,2023,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,Público,Politécnico,Engenharia Informática,23.0,13.1,49.0,False
+3242,9119,Licenciatura,2018,2024,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,Público,Politécnico,Engenharia Informática,21.7,12.5,46.0,False
+3242,9119,Licenciatura,2019,2025,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,Público,Politécnico,Engenharia Informática,24.2,12.9,50.0,False
+3242,9119,Licenciatura,2020,2026,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,Público,Politécnico,Engenharia Informática,17.8,13.2,64.0,False
+3242,9119,Licenciatura,2021,2026,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,Público,Politécnico,Engenharia Informática,19.5,13.5,24.0,False
+3242,9119,Licenciatura,2022,2026,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,Público,Politécnico,Engenharia Informática,19.1,13.8,50.0,False
+3242,9119,Licenciatura,2023,2026,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,Público,Politécnico,Engenharia Informática,16.7,13.4,58.0,False
+3242,9119,Licenciatura,2024,2026,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,Público,Politécnico,Engenharia Informática,13.700000000000001,13.3,46.0,False
+3242,9119,Licenciatura,2025,2026,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,Público,Politécnico,Engenharia Informática,30.7,13.8,15.0,False
+3242,9184,Licenciatura,2011,2017,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,Público,Politécnico,Engenharia Química e Bioquímica,34.2,14.1,5.0,True
+3242,9184,Licenciatura,2012,2018,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,Público,Politécnico,Engenharia Química e Bioquímica,53.6,15.8,2.0,True
+3242,9184,Licenciatura,2015,2018,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,Público,Politécnico,Engenharia Química e Bioquímica,6.3,12.9,1.0,True
+3242,9184,Licenciatura,2016,2018,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,Público,Politécnico,Engenharia Química e Bioquímica,11.200000000000001,12.4,2.0,True
+3242,9184,Licenciatura,2017,2018,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,Público,Politécnico,Engenharia Química e Bioquímica,15.5,13.1,1.0,True
+3242,9380,Licenciatura,2009,2015,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,Público,Politécnico,Conservação e Restauro,30.167354549,,32.0,False
+3242,9380,Licenciatura,2010,2016,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,Público,Politécnico,Conservação e Restauro,33.717474587,,24.0,False
+3242,9380,Licenciatura,2011,2017,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,Público,Politécnico,Conservação e Restauro,35.699999999999996,13.7,18.0,False
+3242,9380,Licenciatura,2012,2018,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,Público,Politécnico,Conservação e Restauro,32.2,13.6,21.0,False
+3242,9380,Licenciatura,2013,2019,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,Público,Politécnico,Conservação e Restauro,34.599999999999994,14.1,29.0,False
+3242,9380,Licenciatura,2014,2020,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,Público,Politécnico,Conservação e Restauro,36.8,13.9,17.0,False
+3242,9380,Licenciatura,2015,2021,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,Público,Politécnico,Conservação e Restauro,39.2,13.6,12.0,False
+3242,9380,Licenciatura,2016,2022,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,Público,Politécnico,Conservação e Restauro,23.1,13.1,14.0,False
+3242,9380,Licenciatura,2017,2023,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,Público,Politécnico,Conservação e Restauro,17.1,12.8,13.0,False
+3242,9380,Licenciatura,2018,2024,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,Público,Politécnico,Conservação e Restauro,29.7,13.1,21.0,False
+3242,9380,Licenciatura,2019,2025,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,Público,Politécnico,Conservação e Restauro,32.1,13.3,18.0,False
+3242,9380,Licenciatura,2020,2026,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,Público,Politécnico,Conservação e Restauro,22.900000000000002,13.9,22.0,False
+3242,9380,Licenciatura,2021,2026,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,Público,Politécnico,Conservação e Restauro,41.8,15.0,34.0,False
+3242,9380,Licenciatura,2022,2026,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,Público,Politécnico,Conservação e Restauro,35.199999999999996,14.6,35.0,False
+3242,9380,Licenciatura,2023,2026,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,Público,Politécnico,Conservação e Restauro,41.699999999999996,14.8,31.0,False
+3242,9380,Licenciatura,2024,2026,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,Público,Politécnico,Conservação e Restauro,38.2,15.1,33.0,False
+3242,9380,Licenciatura,2025,2026,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,Público,Politécnico,Conservação e Restauro,40.8,15.0,33.0,False
+3242,9643,Licenciatura,2009,2015,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,Público,Politécnico,Artes Plásticas - Pintura e Intermédia,26.742280592,,17.0,False
+3242,9643,Licenciatura,2010,2015,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,Público,Politécnico,Artes Plásticas - Pintura e Intermédia,30.833521445000002,,17.0,False
+3242,9643,Licenciatura,2011,2015,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,Público,Politécnico,Artes Plásticas - Pintura e Intermédia,49.73779873,,7.0,False
+3242,9643,Licenciatura,2012,2015,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,Público,Politécnico,Artes Plásticas - Pintura e Intermédia,35.501890924,,7.0,False
+3242,9643,Licenciatura,2013,2015,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,Público,Politécnico,Artes Plásticas - Pintura e Intermédia,45.478340279,,4.0,True
+3242,9644,Licenciatura,2009,2015,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,Público,Politécnico,Design e Tecnologia das Artes Gráficas,34.5732828,,46.0,False
+3242,9644,Licenciatura,2010,2016,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,Público,Politécnico,Design e Tecnologia das Artes Gráficas,20.659290113,,41.0,False
+3242,9644,Licenciatura,2011,2017,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,Público,Politécnico,Design e Tecnologia das Artes Gráficas,23.1,12.9,29.0,False
+3242,9644,Licenciatura,2012,2018,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,Público,Politécnico,Design e Tecnologia das Artes Gráficas,27.1,13.3,22.0,False
+3242,9644,Licenciatura,2013,2019,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,Público,Politécnico,Design e Tecnologia das Artes Gráficas,33.4,13.6,16.0,False
+3242,9644,Licenciatura,2014,2020,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,Público,Politécnico,Design e Tecnologia das Artes Gráficas,31.0,13.2,16.0,False
+3242,9644,Licenciatura,2015,2021,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,Público,Politécnico,Design e Tecnologia das Artes Gráficas,28.299999999999997,13.1,14.0,False
+3242,9644,Licenciatura,2016,2022,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,Público,Politécnico,Design e Tecnologia das Artes Gráficas,26.700000000000003,12.9,17.0,False
+3242,9644,Licenciatura,2017,2023,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,Público,Politécnico,Design e Tecnologia das Artes Gráficas,17.5,12.6,16.0,False
+3242,9644,Licenciatura,2018,2024,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,Público,Politécnico,Design e Tecnologia das Artes Gráficas,29.9,13.0,23.0,False
+3242,9644,Licenciatura,2019,2025,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,Público,Politécnico,Design e Tecnologia das Artes Gráficas,17.1,12.3,11.0,False
+3242,9644,Licenciatura,2020,2026,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,Público,Politécnico,Design e Tecnologia das Artes Gráficas,23.7,13.6,13.0,False
+3242,9644,Licenciatura,2021,2026,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,Público,Politécnico,Design e Tecnologia das Artes Gráficas,21.8,13.8,48.0,False
+3242,9644,Licenciatura,2022,2026,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,Público,Politécnico,Design e Tecnologia das Artes Gráficas,23.1,13.7,48.0,False
+3242,9644,Licenciatura,2023,2026,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,Público,Politécnico,Design e Tecnologia das Artes Gráficas,19.400000000000002,13.7,41.0,False
+3242,9644,Licenciatura,2024,2026,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,Público,Politécnico,Design e Tecnologia das Artes Gráficas,24.5,13.9,45.0,False
+3242,9644,Licenciatura,2025,2026,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,Público,Politécnico,Design e Tecnologia das Artes Gráficas,19.8,13.2,42.0,False
+3242,9645,Licenciatura,2009,2015,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,Público,Politécnico,Fotografia,31.985538322,,25.0,False
+3242,9645,Licenciatura,2010,2016,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,Público,Politécnico,Fotografia,35.904816585999995,,30.0,False
+3242,9645,Licenciatura,2011,2017,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,Público,Politécnico,Fotografia,21.6,13.0,27.0,False
+3242,9645,Licenciatura,2012,2018,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,Público,Politécnico,Fotografia,25.6,12.9,27.0,False
+3242,9645,Licenciatura,2013,2019,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,Público,Politécnico,Fotografia,27.6,12.8,13.0,False
+3242,9645,Licenciatura,2014,2020,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,Público,Politécnico,Fotografia,18.0,12.7,8.0,False
+3242,9645,Licenciatura,2015,2021,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,Público,Politécnico,Fotografia,24.0,12.8,18.0,False
+3242,9645,Licenciatura,2016,2022,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,Público,Politécnico,Fotografia,25.900000000000002,12.7,22.0,False
+3242,9645,Licenciatura,2017,2023,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,Público,Politécnico,Fotografia,16.1,12.6,17.0,False
+3242,9645,Licenciatura,2018,2024,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,Público,Politécnico,Fotografia,17.5,12.6,29.0,False
+3242,9645,Licenciatura,2019,2025,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,Público,Politécnico,Fotografia,16.400000000000002,12.6,26.0,False
+3242,9645,Licenciatura,2020,2026,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,Público,Politécnico,Fotografia,23.799999999999997,13.8,20.0,False
+3242,9645,Licenciatura,2021,2026,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,Público,Politécnico,Fotografia,18.099999999999998,13.3,24.0,False
+3242,9645,Licenciatura,2022,2026,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,Público,Politécnico,Fotografia,17.9,13.3,23.0,False
+3242,9645,Licenciatura,2023,2026,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,Público,Politécnico,Fotografia,23.9,13.6,19.0,False
+3242,9645,Licenciatura,2024,2026,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,Público,Politécnico,Fotografia,20.7,14.1,26.0,False
+3242,9645,Licenciatura,2025,2026,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,Público,Politécnico,Fotografia,23.200000000000003,13.4,19.0,False
+3242,L142,Licenciatura,2020,2026,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,Público,Politécnico,Tecnologia Química,19.5,12.9,2.0,True
+3242,L142,Licenciatura,2021,2026,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,Público,Politécnico,Tecnologia Química,15.0,13.1,11.0,False
+3242,L142,Licenciatura,2022,2026,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,Público,Politécnico,Tecnologia Química,20.200000000000003,13.1,3.0,True
+3242,L142,Licenciatura,2023,2026,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,Público,Politécnico,Tecnologia Química,19.7,13.4,3.0,True
+3242,L142,Licenciatura,2024,2026,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,Público,Politécnico,Tecnologia Química,23.0,13.5,3.0,True
+3242,L142,Licenciatura,2025,2026,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,Público,Politécnico,Tecnologia Química,17.9,12.2,2.0,True
+3242,L186,Licenciatura,2020,2021,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,Público,Politécnico,Gestão da Edificação e Obras,2.8000000000000003,13.9,1.0,True
+3242,L186,Licenciatura,2022,2023,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,Público,Politécnico,Gestão da Edificação e Obras,5.6000000000000005,12.5,1.0,True
+3242,L186,Licenciatura,2025,2026,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,Público,Politécnico,Gestão da Edificação e Obras,14.499999999999998,11.9,1.0,True
+3243,9054,Licenciatura,2009,2015,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Abrantes,Público,Politécnico,Comunicação Social,31.938174336000003,,21.0,False
+3243,9054,Licenciatura,2010,2016,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Abrantes,Público,Politécnico,Comunicação Social,36.926176307000006,,34.0,False
+3243,9054,Licenciatura,2011,2017,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Abrantes,Público,Politécnico,Comunicação Social,32.300000000000004,12.8,25.0,False
+3243,9054,Licenciatura,2012,2018,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Abrantes,Público,Politécnico,Comunicação Social,40.8,12.7,19.0,False
+3243,9054,Licenciatura,2013,2019,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Abrantes,Público,Politécnico,Comunicação Social,33.6,12.6,14.0,False
+3243,9054,Licenciatura,2014,2020,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Abrantes,Público,Politécnico,Comunicação Social,30.2,12.4,20.0,False
+3243,9054,Licenciatura,2015,2021,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Abrantes,Público,Politécnico,Comunicação Social,24.5,11.8,25.0,False
+3243,9054,Licenciatura,2016,2022,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Abrantes,Público,Politécnico,Comunicação Social,40.0,12.7,21.0,False
+3243,9054,Licenciatura,2017,2022,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Abrantes,Público,Politécnico,Comunicação Social,20.4,12.1,32.0,False
+3243,9054,Licenciatura,2018,2022,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Abrantes,Público,Politécnico,Comunicação Social,26.700000000000003,12.2,31.0,False
+3243,9054,Licenciatura,2019,2022,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Abrantes,Público,Politécnico,Comunicação Social,21.3,12.0,31.0,False
+3243,9054,Licenciatura,2020,2022,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Abrantes,Público,Politécnico,Comunicação Social,20.7,12.9,34.0,False
+3243,9054,Licenciatura,2021,2022,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Abrantes,Público,Politécnico,Comunicação Social,30.599999999999998,13.6,29.0,False
+3243,9123,Licenciatura,2009,2015,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Abrantes,Público,Politécnico,Engenharia Mecânica,26.921493397000003,,11.0,False
+3243,9123,Licenciatura,2010,2015,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Abrantes,Público,Politécnico,Engenharia Mecânica,33.103342394,,6.0,False
+3243,9123,Licenciatura,2011,2017,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Abrantes,Público,Politécnico,Engenharia Mecânica,20.1,12.8,5.0,True
+3243,9123,Licenciatura,2012,2018,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Abrantes,Público,Politécnico,Engenharia Mecânica,18.8,12.9,1.0,True
+3243,9123,Licenciatura,2016,2019,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Abrantes,Público,Politécnico,Engenharia Mecânica,12.0,15.3,1.0,True
+3243,9123,Licenciatura,2017,2019,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Abrantes,Público,Politécnico,Engenharia Mecânica,9.3,12.4,1.0,True
+3243,9123,Licenciatura,2018,2019,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Abrantes,Público,Politécnico,Engenharia Mecânica,7.6,11.7,1.0,True
+3243,9123,Licenciatura,2021,2022,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Abrantes,Público,Politécnico,Engenharia Mecânica,9.700000000000001,13.9,1.0,True
+3243,9123,Licenciatura,2024,2026,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Abrantes,Público,Politécnico,Engenharia Mecânica,16.5,12.7,2.0,True
+3243,9123,Licenciatura,2025,2026,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Abrantes,Público,Politécnico,Engenharia Mecânica,16.900000000000002,13.5,1.0,True
+3243,9250,Licenciatura,2009,2015,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Abrantes,Público,Politécnico,Tecnologias de Informação e Comunicação,38.362581968,,8.0,False
+3243,9250,Licenciatura,2010,2015,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Abrantes,Público,Politécnico,Tecnologias de Informação e Comunicação,12.841316536999999,,2.0,True
+3243,9250,Licenciatura,2012,2015,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Abrantes,Público,Politécnico,Tecnologias de Informação e Comunicação,30.353430353,,2.0,True
+3243,9250,Licenciatura,2013,2015,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Abrantes,Público,Politécnico,Tecnologias de Informação e Comunicação,46.436818041,,2.0,True
+3243,9932,Licenciatura,2009,2015,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Abrantes,Público,Politécnico,Vídeo e Cinema Documental,33.098596312,,17.0,False
+3243,9932,Licenciatura,2010,2016,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Abrantes,Público,Politécnico,Vídeo e Cinema Documental,35.620424840999995,,23.0,False
+3243,9932,Licenciatura,2011,2017,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Abrantes,Público,Politécnico,Vídeo e Cinema Documental,36.5,13.2,25.0,False
+3243,9932,Licenciatura,2012,2018,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Abrantes,Público,Politécnico,Vídeo e Cinema Documental,41.099999999999994,13.4,28.0,False
+3243,9932,Licenciatura,2013,2018,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Abrantes,Público,Politécnico,Vídeo e Cinema Documental,47.4,13.7,5.0,True
+3243,9932,Licenciatura,2014,2018,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Abrantes,Público,Politécnico,Vídeo e Cinema Documental,36.199999999999996,13.4,16.0,False
+3243,9932,Licenciatura,2015,2018,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Abrantes,Público,Politécnico,Vídeo e Cinema Documental,14.799999999999999,11.9,8.0,False
+3243,9932,Licenciatura,2016,2018,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Abrantes,Público,Politécnico,Vídeo e Cinema Documental,29.4,12.7,15.0,False
+3243,9932,Licenciatura,2017,2018,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Abrantes,Público,Politécnico,Vídeo e Cinema Documental,16.6,12.1,11.0,False
+3243,L143,Licenciatura,2017,2019,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Abrantes,Público,Politécnico,Informática e Tecnologias Multimédia,16.400000000000002,11.8,3.0,True
+3243,L143,Licenciatura,2018,2019,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Abrantes,Público,Politécnico,Informática e Tecnologias Multimédia,20.9,12.8,4.0,True
+3243,L143,Licenciatura,2020,2026,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Abrantes,Público,Politécnico,Informática e Tecnologias Multimédia,21.3,12.8,2.0,True
+3243,L143,Licenciatura,2021,2026,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Abrantes,Público,Politécnico,Informática e Tecnologias Multimédia,22.7,14.7,1.0,True
+3243,L143,Licenciatura,2022,2026,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Abrantes,Público,Politécnico,Informática e Tecnologias Multimédia,8.1,12.3,4.0,True
+3243,L143,Licenciatura,2023,2026,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Abrantes,Público,Politécnico,Informática e Tecnologias Multimédia,27.900000000000002,14.9,4.0,True
+3243,L143,Licenciatura,2024,2026,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Abrantes,Público,Politécnico,Informática e Tecnologias Multimédia,14.2,13.2,4.0,True
+3243,L143,Licenciatura,2025,2026,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Abrantes,Público,Politécnico,Informática e Tecnologias Multimédia,57.9,15.5,1.0,True
+3243,L177,Licenciatura,2018,2023,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Abrantes,Público,Politécnico,Cinema Documental,22.1,12.4,13.0,False
+3243,L177,Licenciatura,2019,2023,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Abrantes,Público,Politécnico,Cinema Documental,19.5,12.4,12.0,False
+3243,L177,Licenciatura,2020,2023,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Abrantes,Público,Politécnico,Cinema Documental,10.8,13.1,16.0,False
+3243,L177,Licenciatura,2021,2023,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Abrantes,Público,Politécnico,Cinema Documental,19.900000000000002,13.4,21.0,False
+3243,L177,Licenciatura,2022,2023,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Abrantes,Público,Politécnico,Cinema Documental,19.5,12.9,22.0,False
+3243,L297,Licenciatura,2023,2026,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Abrantes,Público,Politécnico,Comunicação Social: Jornalismo e Comunicação Empresarial,24.9,13.2,34.0,False
+3243,L297,Licenciatura,2024,2026,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Abrantes,Público,Politécnico,Comunicação Social: Jornalismo e Comunicação Empresarial,28.499999999999996,13.8,37.0,False
+3243,L297,Licenciatura,2025,2026,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Abrantes,Público,Politécnico,Comunicação Social: Jornalismo e Comunicação Empresarial,22.5,12.3,12.0,False
+3243,L371,Licenciatura,2025,2026,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Abrantes,Público,Politécnico,Cinema e Média Digitais,20.0,13.1,13.0,False

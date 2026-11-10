@@ -1,0 +1,186 @@
+CodigoUnidadeOrganica,CodigoCurso,Grau,ano,edicao_fonte,Estabelecimento,CodigoEstabelecimento,UnidadeOrganica,Natureza,TipoEnsino,NomeCurso,NumeroInscritos,amostra_pequena
+3241,T002,CTeSP,2015/2016,2021,Instituto Politécnico de Tomar,3240,Escola Superior de Gestão de Tomar,Público,Politécnico,Gestão Comercial e Vendas,9.0,False
+3241,T002,CTeSP,2016/2017,2022,Instituto Politécnico de Tomar,3240,Escola Superior de Gestão de Tomar,Público,Politécnico,Gestão Comercial e Vendas,7.0,False
+3241,T002,CTeSP,2017/2018,2023,Instituto Politécnico de Tomar,3240,Escola Superior de Gestão de Tomar,Público,Politécnico,Gestão Comercial e Vendas,6.0,False
+3241,T002,CTeSP,2018/2019,2024,Instituto Politécnico de Tomar,3240,Escola Superior de Gestão de Tomar,Público,Politécnico,Gestão Comercial e Vendas,11.0,False
+3241,T002,CTeSP,2019/2020,2025,Instituto Politécnico de Tomar,3240,Escola Superior de Gestão de Tomar,Público,Politécnico,Gestão Comercial e Vendas,9.0,False
+3241,T002,CTeSP,2020/2021,2025,Instituto Politécnico de Tomar,3240,Escola Superior de Gestão de Tomar,Público,Politécnico,Gestão Comercial e Vendas,23.0,False
+3241,T002,CTeSP,2021/2022,2025,Instituto Politécnico de Tomar,3240,Escola Superior de Gestão de Tomar,Público,Politécnico,Gestão Comercial e Vendas,36.0,False
+3241,T002,CTeSP,2022/2023,2025,Instituto Politécnico de Tomar,3240,Escola Superior de Gestão de Tomar,Público,Politécnico,Gestão Comercial e Vendas,11.0,False
+3241,T002,CTeSP,2023/2024,2025,Instituto Politécnico de Tomar,3240,Escola Superior de Gestão de Tomar,Público,Politécnico,Gestão Comercial e Vendas,6.0,False
+3241,T016,CTeSP,2015/2016,2021,Instituto Politécnico de Tomar,3240,Escola Superior de Gestão de Tomar,Público,Politécnico,Gestão Administrativa de Recursos Humanos,16.0,False
+3241,T016,CTeSP,2016/2017,2022,Instituto Politécnico de Tomar,3240,Escola Superior de Gestão de Tomar,Público,Politécnico,Gestão Administrativa de Recursos Humanos,22.0,False
+3241,T016,CTeSP,2017/2018,2023,Instituto Politécnico de Tomar,3240,Escola Superior de Gestão de Tomar,Público,Politécnico,Gestão Administrativa de Recursos Humanos,18.0,False
+3241,T016,CTeSP,2018/2019,2024,Instituto Politécnico de Tomar,3240,Escola Superior de Gestão de Tomar,Público,Politécnico,Gestão Administrativa de Recursos Humanos,31.0,False
+3241,T016,CTeSP,2019/2020,2025,Instituto Politécnico de Tomar,3240,Escola Superior de Gestão de Tomar,Público,Politécnico,Gestão Administrativa de Recursos Humanos,53.0,False
+3241,T016,CTeSP,2020/2021,2026,Instituto Politécnico de Tomar,3240,Escola Superior de Gestão de Tomar,Público,Politécnico,Gestão Administrativa de Recursos Humanos,51.0,False
+3241,T016,CTeSP,2021/2022,2026,Instituto Politécnico de Tomar,3240,Escola Superior de Gestão de Tomar,Público,Politécnico,Gestão Administrativa de Recursos Humanos,42.0,False
+3241,T016,CTeSP,2022/2023,2026,Instituto Politécnico de Tomar,3240,Escola Superior de Gestão de Tomar,Público,Politécnico,Gestão Administrativa de Recursos Humanos,53.0,False
+3241,T016,CTeSP,2023/2024,2026,Instituto Politécnico de Tomar,3240,Escola Superior de Gestão de Tomar,Público,Politécnico,Gestão Administrativa de Recursos Humanos,67.0,False
+3241,T016,CTeSP,2024/2025,2026,Instituto Politécnico de Tomar,3240,Escola Superior de Gestão de Tomar,Público,Politécnico,Gestão Administrativa de Recursos Humanos,48.0,False
+3241,T029,CTeSP,2015/2016,2021,Instituto Politécnico de Tomar,3240,Escola Superior de Gestão de Tomar,Público,Politécnico,Contabilidade e Gestão,25.0,False
+3241,T029,CTeSP,2016/2017,2022,Instituto Politécnico de Tomar,3240,Escola Superior de Gestão de Tomar,Público,Politécnico,Contabilidade e Gestão,45.0,False
+3241,T029,CTeSP,2017/2018,2023,Instituto Politécnico de Tomar,3240,Escola Superior de Gestão de Tomar,Público,Politécnico,Contabilidade e Gestão,33.0,False
+3241,T029,CTeSP,2018/2019,2024,Instituto Politécnico de Tomar,3240,Escola Superior de Gestão de Tomar,Público,Politécnico,Contabilidade e Gestão,29.0,False
+3241,T029,CTeSP,2019/2020,2025,Instituto Politécnico de Tomar,3240,Escola Superior de Gestão de Tomar,Público,Politécnico,Contabilidade e Gestão,13.0,False
+3241,T029,CTeSP,2020/2021,2026,Instituto Politécnico de Tomar,3240,Escola Superior de Gestão de Tomar,Público,Politécnico,Contabilidade e Gestão,32.0,False
+3241,T029,CTeSP,2021/2022,2026,Instituto Politécnico de Tomar,3240,Escola Superior de Gestão de Tomar,Público,Politécnico,Contabilidade e Gestão,40.0,False
+3241,T029,CTeSP,2022/2023,2026,Instituto Politécnico de Tomar,3240,Escola Superior de Gestão de Tomar,Público,Politécnico,Contabilidade e Gestão,37.0,False
+3241,T029,CTeSP,2023/2024,2026,Instituto Politécnico de Tomar,3240,Escola Superior de Gestão de Tomar,Público,Politécnico,Contabilidade e Gestão,51.0,False
+3241,T029,CTeSP,2024/2025,2026,Instituto Politécnico de Tomar,3240,Escola Superior de Gestão de Tomar,Público,Politécnico,Contabilidade e Gestão,39.0,False
+3241,T042,CTeSP,2015/2016,2021,Instituto Politécnico de Tomar,3240,Escola Superior de Gestão de Tomar,Público,Politécnico,Contabilidade e Fiscalidade,6.0,False
+3241,T042,CTeSP,2016/2017,2021,Instituto Politécnico de Tomar,3240,Escola Superior de Gestão de Tomar,Público,Politécnico,Contabilidade e Fiscalidade,5.0,True
+3241,T042,CTeSP,2023/2024,2026,Instituto Politécnico de Tomar,3240,Escola Superior de Gestão de Tomar,Público,Politécnico,Contabilidade e Fiscalidade,20.0,False
+3241,T042,CTeSP,2024/2025,2026,Instituto Politécnico de Tomar,3240,Escola Superior de Gestão de Tomar,Público,Politécnico,Contabilidade e Fiscalidade,18.0,False
+3241,T059,CTeSP,2021/2022,2026,Instituto Politécnico de Tomar,3240,Escola Superior de Gestão de Tomar,Público,Politécnico,Marketing Digital,23.0,False
+3241,T059,CTeSP,2022/2023,2026,Instituto Politécnico de Tomar,3240,Escola Superior de Gestão de Tomar,Público,Politécnico,Marketing Digital,49.0,False
+3241,T059,CTeSP,2023/2024,2026,Instituto Politécnico de Tomar,3240,Escola Superior de Gestão de Tomar,Público,Politécnico,Marketing Digital,77.0,False
+3241,T059,CTeSP,2024/2025,2026,Instituto Politécnico de Tomar,3240,Escola Superior de Gestão de Tomar,Público,Politécnico,Marketing Digital,78.0,False
+3241,T067,CTeSP,2021/2022,2026,Instituto Politécnico de Tomar,3240,Escola Superior de Gestão de Tomar,Público,Politécnico,Informática de Gestão,16.0,False
+3241,T067,CTeSP,2022/2023,2026,Instituto Politécnico de Tomar,3240,Escola Superior de Gestão de Tomar,Público,Politécnico,Informática de Gestão,22.0,False
+3241,T067,CTeSP,2023/2024,2026,Instituto Politécnico de Tomar,3240,Escola Superior de Gestão de Tomar,Público,Politécnico,Informática de Gestão,26.0,False
+3241,T067,CTeSP,2024/2025,2026,Instituto Politécnico de Tomar,3240,Escola Superior de Gestão de Tomar,Público,Politécnico,Informática de Gestão,23.0,False
+3241,T118,CTeSP,2015/2016,2021,Instituto Politécnico de Tomar,3240,Escola Superior de Gestão de Tomar,Público,Politécnico,Produção de Atividades para o Turismo Cultural,39.0,False
+3241,T118,CTeSP,2016/2017,2022,Instituto Politécnico de Tomar,3240,Escola Superior de Gestão de Tomar,Público,Politécnico,Produção de Atividades para o Turismo Cultural,33.0,False
+3241,T118,CTeSP,2017/2018,2023,Instituto Politécnico de Tomar,3240,Escola Superior de Gestão de Tomar,Público,Politécnico,Produção de Atividades para o Turismo Cultural,25.0,False
+3241,T118,CTeSP,2018/2019,2023,Instituto Politécnico de Tomar,3240,Escola Superior de Gestão de Tomar,Público,Politécnico,Produção de Atividades para o Turismo Cultural,27.0,False
+3241,T118,CTeSP,2019/2020,2023,Instituto Politécnico de Tomar,3240,Escola Superior de Gestão de Tomar,Público,Politécnico,Produção de Atividades para o Turismo Cultural,14.0,False
+3241,T118,CTeSP,2020/2021,2023,Instituto Politécnico de Tomar,3240,Escola Superior de Gestão de Tomar,Público,Politécnico,Produção de Atividades para o Turismo Cultural,9.0,False
+3241,T118,CTeSP,2021/2022,2023,Instituto Politécnico de Tomar,3240,Escola Superior de Gestão de Tomar,Público,Politécnico,Produção de Atividades para o Turismo Cultural,1.0,True
+3241,T125,CTeSP,2021/2022,2026,Instituto Politécnico de Tomar,3240,Escola Superior de Gestão de Tomar,Público,Politécnico,Gestão de Turismo,31.0,False
+3241,T125,CTeSP,2022/2023,2026,Instituto Politécnico de Tomar,3240,Escola Superior de Gestão de Tomar,Público,Politécnico,Gestão de Turismo,29.0,False
+3241,T125,CTeSP,2023/2024,2026,Instituto Politécnico de Tomar,3240,Escola Superior de Gestão de Tomar,Público,Politécnico,Gestão de Turismo,29.0,False
+3241,T125,CTeSP,2024/2025,2026,Instituto Politécnico de Tomar,3240,Escola Superior de Gestão de Tomar,Público,Politécnico,Gestão de Turismo,15.0,False
+3242,T024,CTeSP,2015/2016,2021,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,Público,Politécnico,Tecnologias e Programação de Sistemas de Informação,25.0,False
+3242,T024,CTeSP,2016/2017,2022,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,Público,Politécnico,Tecnologias e Programação de Sistemas de Informação,45.0,False
+3242,T024,CTeSP,2017/2018,2023,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,Público,Politécnico,Tecnologias e Programação de Sistemas de Informação,48.0,False
+3242,T024,CTeSP,2018/2019,2024,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,Público,Politécnico,Tecnologias e Programação de Sistemas de Informação,45.0,False
+3242,T024,CTeSP,2019/2020,2025,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,Público,Politécnico,Tecnologias e Programação de Sistemas de Informação,64.0,False
+3242,T024,CTeSP,2020/2021,2026,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,Público,Politécnico,Tecnologias e Programação de Sistemas de Informação,57.0,False
+3242,T024,CTeSP,2021/2022,2026,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,Público,Politécnico,Tecnologias e Programação de Sistemas de Informação,61.0,False
+3242,T024,CTeSP,2022/2023,2026,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,Público,Politécnico,Tecnologias e Programação de Sistemas de Informação,80.0,False
+3242,T024,CTeSP,2023/2024,2026,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,Público,Politécnico,Tecnologias e Programação de Sistemas de Informação,70.0,False
+3242,T024,CTeSP,2024/2025,2026,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,Público,Politécnico,Tecnologias e Programação de Sistemas de Informação,62.0,False
+3242,T055,CTeSP,2014/2015,2020,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,Público,Politécnico,Produção Artística para a Conservação e Restauro,18.0,False
+3242,T055,CTeSP,2015/2016,2021,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,Público,Politécnico,Produção Artística para a Conservação e Restauro,11.0,False
+3242,T055,CTeSP,2016/2017,2021,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,Público,Politécnico,Produção Artística para a Conservação e Restauro,5.0,True
+3242,T055,CTeSP,2017/2018,2023,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,Público,Politécnico,Produção Artística para a Conservação e Restauro,4.0,True
+3242,T055,CTeSP,2021/2022,2023,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,Público,Politécnico,Produção Artística para a Conservação e Restauro,5.0,True
+3242,T080,CTeSP,2019/2020,2025,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,Público,Politécnico,Análises Laboratoriais,1.0,True
+3242,T080,CTeSP,2020/2021,2026,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,Público,Politécnico,Análises Laboratoriais,6.0,False
+3242,T080,CTeSP,2021/2022,2026,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,Público,Politécnico,Análises Laboratoriais,25.0,False
+3242,T080,CTeSP,2022/2023,2026,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,Público,Politécnico,Análises Laboratoriais,20.0,False
+3242,T080,CTeSP,2023/2024,2026,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,Público,Politécnico,Análises Laboratoriais,25.0,False
+3242,T080,CTeSP,2024/2025,2026,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,Público,Politécnico,Análises Laboratoriais,27.0,False
+3242,T150,CTeSP,2015/2016,2021,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,Público,Politécnico,Arte e Técnica do Couro,6.0,False
+3242,T150,CTeSP,2016/2017,2021,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,Público,Politécnico,Arte e Técnica do Couro,4.0,True
+3242,T150,CTeSP,2017/2018,2021,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,Público,Politécnico,Arte e Técnica do Couro,1.0,True
+3242,T162,CTeSP,2023/2024,2026,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,Público,Politécnico,Energias Renováveis,9.0,False
+3242,T162,CTeSP,2024/2025,2026,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,Público,Politécnico,Energias Renováveis,14.0,False
+3242,T169,CTeSP,2015/2016,2021,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,Público,Politécnico,Qualidade Alimentar,5.0,True
+3242,T169,CTeSP,2016/2017,2021,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,Público,Politécnico,Qualidade Alimentar,3.0,True
+3242,T175,CTeSP,2015/2016,2021,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,Público,Politécnico,Design Multimédia,22.0,False
+3242,T175,CTeSP,2016/2017,2022,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,Público,Politécnico,Design Multimédia,45.0,False
+3242,T175,CTeSP,2017/2018,2023,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,Público,Politécnico,Design Multimédia,40.0,False
+3242,T175,CTeSP,2018/2019,2024,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,Público,Politécnico,Design Multimédia,29.0,False
+3242,T175,CTeSP,2019/2020,2025,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,Público,Politécnico,Design Multimédia,33.0,False
+3242,T175,CTeSP,2020/2021,2026,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,Público,Politécnico,Design Multimédia,43.0,False
+3242,T175,CTeSP,2021/2022,2026,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,Público,Politécnico,Design Multimédia,41.0,False
+3242,T175,CTeSP,2022/2023,2026,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,Público,Politécnico,Design Multimédia,48.0,False
+3242,T175,CTeSP,2023/2024,2026,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,Público,Politécnico,Design Multimédia,44.0,False
+3242,T175,CTeSP,2024/2025,2026,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,Público,Politécnico,Design Multimédia,46.0,False
+3242,T182,CTeSP,2016/2017,2021,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,Público,Politécnico,Qualidade Ambiental,4.0,True
+3242,T182,CTeSP,2017/2018,2021,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,Público,Politécnico,Qualidade Ambiental,3.0,True
+3242,T182,CTeSP,2018/2019,2021,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,Público,Politécnico,Qualidade Ambiental,2.0,True
+3242,T182,CTeSP,2019/2020,2021,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,Público,Politécnico,Qualidade Ambiental,1.0,True
+3242,T193,CTeSP,2015/2016,2021,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,Público,Politécnico,Construção e Reabilitação,7.0,False
+3242,T193,CTeSP,2016/2017,2021,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,Público,Politécnico,Construção e Reabilitação,7.0,False
+3242,T223,CTeSP,2015/2016,2021,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,Público,Politécnico,Segurança e Proteção Civil,28.0,False
+3242,T223,CTeSP,2016/2017,2022,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,Público,Politécnico,Segurança e Proteção Civil,26.0,False
+3242,T223,CTeSP,2017/2018,2023,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,Público,Politécnico,Segurança e Proteção Civil,4.0,True
+3242,T223,CTeSP,2018/2019,2024,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,Público,Politécnico,Segurança e Proteção Civil,25.0,False
+3242,T223,CTeSP,2019/2020,2025,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,Público,Politécnico,Segurança e Proteção Civil,32.0,False
+3242,T223,CTeSP,2020/2021,2026,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,Público,Politécnico,Segurança e Proteção Civil,29.0,False
+3242,T223,CTeSP,2021/2022,2026,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,Público,Politécnico,Segurança e Proteção Civil,48.0,False
+3242,T223,CTeSP,2022/2023,2026,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,Público,Politécnico,Segurança e Proteção Civil,55.0,False
+3242,T223,CTeSP,2023/2024,2026,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,Público,Politécnico,Segurança e Proteção Civil,55.0,False
+3242,T223,CTeSP,2024/2025,2026,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,Público,Politécnico,Segurança e Proteção Civil,38.0,False
+3242,T263,CTeSP,2015/2016,2021,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,Público,Politécnico,Automação Industrial,11.0,False
+3242,T263,CTeSP,2016/2017,2022,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,Público,Politécnico,Automação Industrial,15.0,False
+3242,T263,CTeSP,2017/2018,2023,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,Público,Politécnico,Automação Industrial,20.0,False
+3242,T263,CTeSP,2018/2019,2024,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,Público,Politécnico,Automação Industrial,13.0,False
+3242,T263,CTeSP,2019/2020,2025,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,Público,Politécnico,Automação Industrial,19.0,False
+3242,T263,CTeSP,2020/2021,2026,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,Público,Politécnico,Automação Industrial,29.0,False
+3242,T263,CTeSP,2021/2022,2026,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,Público,Politécnico,Automação Industrial,23.0,False
+3242,T263,CTeSP,2022/2023,2026,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,Público,Politécnico,Automação Industrial,15.0,False
+3242,T263,CTeSP,2023/2024,2026,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,Público,Politécnico,Automação Industrial,24.0,False
+3242,T263,CTeSP,2024/2025,2026,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,Público,Politécnico,Automação Industrial,17.0,False
+3242,T273,CTeSP,2015/2016,2021,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,Público,Politécnico,Instalações Elétricas e Manutenção Industrial,7.0,False
+3242,T273,CTeSP,2016/2017,2022,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,Público,Politécnico,Instalações Elétricas e Manutenção Industrial,14.0,False
+3242,T273,CTeSP,2017/2018,2023,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,Público,Politécnico,Instalações Elétricas e Manutenção Industrial,6.0,False
+3242,T273,CTeSP,2018/2019,2024,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,Público,Politécnico,Instalações Elétricas e Manutenção Industrial,14.0,False
+3242,T273,CTeSP,2019/2020,2024,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,Público,Politécnico,Instalações Elétricas e Manutenção Industrial,11.0,False
+3242,T273,CTeSP,2020/2021,2024,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,Público,Politécnico,Instalações Elétricas e Manutenção Industrial,12.0,False
+3242,T273,CTeSP,2021/2022,2024,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,Público,Politécnico,Instalações Elétricas e Manutenção Industrial,3.0,True
+3242,T273,CTeSP,2022/2023,2024,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,Público,Politécnico,Instalações Elétricas e Manutenção Industrial,1.0,True
+3242,T516,CTeSP,2020/2021,2026,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,Público,Politécnico,Tecnologias Integradas de Produção Industrial,5.0,True
+3242,T516,CTeSP,2021/2022,2026,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,Público,Politécnico,Tecnologias Integradas de Produção Industrial,7.0,False
+3242,T516,CTeSP,2022/2023,2026,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,Público,Politécnico,Tecnologias Integradas de Produção Industrial,1.0,True
+3242,T516,CTeSP,2023/2024,2026,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,Público,Politécnico,Tecnologias Integradas de Produção Industrial,2.0,True
+3242,T516,CTeSP,2024/2025,2026,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,Público,Politécnico,Tecnologias Integradas de Produção Industrial,1.0,True
+3242,T589,CTeSP,2022/2023,2026,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,Público,Politécnico,Tecnologia no Desporto,2.0,True
+3242,T589,CTeSP,2023/2024,2026,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,Público,Politécnico,Tecnologia no Desporto,12.0,False
+3242,T589,CTeSP,2024/2025,2026,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,Público,Politécnico,Tecnologia no Desporto,21.0,False
+3242,T633,CTeSP,2022/2023,2026,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,Público,Politécnico,Manutenção e Reabilitação de Sistemas Ferroviários,27.0,False
+3242,T633,CTeSP,2023/2024,2026,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,Público,Politécnico,Manutenção e Reabilitação de Sistemas Ferroviários,24.0,False
+3242,T633,CTeSP,2024/2025,2026,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,Público,Politécnico,Manutenção e Reabilitação de Sistemas Ferroviários,3.0,True
+3242,T659,CTeSP,2024/2025,2026,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,Público,Politécnico,Tecnologia e Produção nas Artes do Espetáculo,15.0,False
+3243,T028,CTeSP,2017/2018,2023,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Abrantes,Público,Politécnico,Som e Imagem,16.0,False
+3243,T028,CTeSP,2018/2019,2024,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Abrantes,Público,Politécnico,Som e Imagem,25.0,False
+3243,T028,CTeSP,2019/2020,2025,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Abrantes,Público,Politécnico,Som e Imagem,29.0,False
+3243,T028,CTeSP,2020/2021,2026,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Abrantes,Público,Politécnico,Som e Imagem,14.0,False
+3243,T028,CTeSP,2021/2022,2026,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Abrantes,Público,Politécnico,Som e Imagem,1.0,True
+3243,T028,CTeSP,2022/2023,2026,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Abrantes,Público,Politécnico,Som e Imagem,19.0,False
+3243,T028,CTeSP,2023/2024,2026,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Abrantes,Público,Politécnico,Som e Imagem,32.0,False
+3243,T028,CTeSP,2024/2025,2026,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Abrantes,Público,Politécnico,Som e Imagem,23.0,False
+3243,T121,CTeSP,2015/2016,2021,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Abrantes,Público,Politécnico,Manutenção de Sistemas Mecatrónicos,14.0,False
+3243,T121,CTeSP,2016/2017,2022,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Abrantes,Público,Politécnico,Manutenção de Sistemas Mecatrónicos,22.0,False
+3243,T121,CTeSP,2017/2018,2023,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Abrantes,Público,Politécnico,Manutenção de Sistemas Mecatrónicos,24.0,False
+3243,T121,CTeSP,2018/2019,2024,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Abrantes,Público,Politécnico,Manutenção de Sistemas Mecatrónicos,21.0,False
+3243,T121,CTeSP,2019/2020,2025,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Abrantes,Público,Politécnico,Manutenção de Sistemas Mecatrónicos,25.0,False
+3243,T121,CTeSP,2020/2021,2026,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Abrantes,Público,Politécnico,Manutenção de Sistemas Mecatrónicos,29.0,False
+3243,T121,CTeSP,2021/2022,2026,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Abrantes,Público,Politécnico,Manutenção de Sistemas Mecatrónicos,28.0,False
+3243,T121,CTeSP,2022/2023,2026,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Abrantes,Público,Politécnico,Manutenção de Sistemas Mecatrónicos,34.0,False
+3243,T121,CTeSP,2023/2024,2026,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Abrantes,Público,Politécnico,Manutenção de Sistemas Mecatrónicos,35.0,False
+3243,T121,CTeSP,2024/2025,2026,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Abrantes,Público,Politécnico,Manutenção de Sistemas Mecatrónicos,28.0,False
+3243,T142,CTeSP,2017/2018,2023,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Abrantes,Público,Politécnico,Informática,4.0,True
+3243,T142,CTeSP,2018/2019,2024,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Abrantes,Público,Politécnico,Informática,15.0,False
+3243,T142,CTeSP,2019/2020,2025,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Abrantes,Público,Politécnico,Informática,35.0,False
+3243,T142,CTeSP,2020/2021,2026,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Abrantes,Público,Politécnico,Informática,31.0,False
+3243,T142,CTeSP,2021/2022,2026,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Abrantes,Público,Politécnico,Informática,49.0,False
+3243,T142,CTeSP,2022/2023,2026,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Abrantes,Público,Politécnico,Informática,79.0,False
+3243,T142,CTeSP,2023/2024,2026,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Abrantes,Público,Politécnico,Informática,81.0,False
+3243,T142,CTeSP,2024/2025,2026,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Abrantes,Público,Politécnico,Informática,85.0,False
+3243,T200,CTeSP,2015/2016,2021,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Abrantes,Público,Politécnico,Web e Dispositivos Móveis,9.0,False
+3243,T200,CTeSP,2016/2017,2022,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Abrantes,Público,Politécnico,Web e Dispositivos Móveis,28.0,False
+3243,T200,CTeSP,2017/2018,2022,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Abrantes,Público,Politécnico,Web e Dispositivos Móveis,14.0,False
+3243,T200,CTeSP,2018/2019,2022,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Abrantes,Público,Politécnico,Web e Dispositivos Móveis,23.0,False
+3243,T200,CTeSP,2019/2020,2022,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Abrantes,Público,Politécnico,Web e Dispositivos Móveis,21.0,False
+3243,T200,CTeSP,2020/2021,2022,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Abrantes,Público,Politécnico,Web e Dispositivos Móveis,6.0,False
+3243,T240,CTeSP,2015/2016,2020,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Abrantes,Público,Politécnico,Animação e Modelação 3D,11.0,False
+3243,T240,CTeSP,2016/2017,2020,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Abrantes,Público,Politécnico,Animação e Modelação 3D,17.0,False
+3243,T240,CTeSP,2017/2018,2020,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Abrantes,Público,Politécnico,Animação e Modelação 3D,18.0,False
+3243,T240,CTeSP,2018/2019,2020,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Abrantes,Público,Politécnico,Animação e Modelação 3D,14.0,False
+3243,T376,CTeSP,2019/2020,2024,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Abrantes,Público,Politécnico,Realização e Produção Televisiva,15.0,False
+3243,T376,CTeSP,2020/2021,2024,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Abrantes,Público,Politécnico,Realização e Produção Televisiva,33.0,False
+3243,T376,CTeSP,2021/2022,2024,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Abrantes,Público,Politécnico,Realização e Produção Televisiva,9.0,False
+3243,T376,CTeSP,2022/2023,2024,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Abrantes,Público,Politécnico,Realização e Produção Televisiva,1.0,True
+3243,T390,CTeSP,2018/2019,2021,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Abrantes,Público,Politécnico,Desenvolvimento de Jogos Digitais,5.0,True
+3243,T390,CTeSP,2019/2020,2021,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Abrantes,Público,Politécnico,Desenvolvimento de Jogos Digitais,3.0,True
+3243,T391,CTeSP,2018/2019,2021,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Abrantes,Público,Politécnico,Artes para Jogos Digitais,8.0,False
+3243,T391,CTeSP,2019/2020,2021,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Abrantes,Público,Politécnico,Artes para Jogos Digitais,8.0,False
+3243,T543,CTeSP,2020/2021,2026,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Abrantes,Público,Politécnico,Animação e Modelação 3D e Jogos,22.0,False
+3243,T543,CTeSP,2021/2022,2026,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Abrantes,Público,Politécnico,Animação e Modelação 3D e Jogos,28.0,False
+3243,T543,CTeSP,2022/2023,2026,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Abrantes,Público,Politécnico,Animação e Modelação 3D e Jogos,48.0,False
+3243,T543,CTeSP,2023/2024,2026,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Abrantes,Público,Politécnico,Animação e Modelação 3D e Jogos,49.0,False
+3243,T543,CTeSP,2024/2025,2026,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Abrantes,Público,Politécnico,Animação e Modelação 3D e Jogos,35.0,False

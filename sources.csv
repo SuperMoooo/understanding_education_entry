@@ -1,0 +1,13 @@
+id,enabled,kind,parser,url,link_pattern,select,description
+infocursos,1,index,infocursos,https://infocursos.medu.pt/bds.asp,Infocursos_(\d{4})\.xlsx,all,"InfoCursos: base de dados anual (xlsx). Página índice; descarrega todos os anos que encontrar"
+infocursos_nota_tecnica,1,file,none,https://infocursos.medu.pt/nota.asp,,,"InfoCursos: nota técnica (definições dos indicadores)"
+dgeec_ctesp_2020_21,1,file,dgeec_ctesp,https://www.dgeec.medu.pt/api/ficheiros/657998bb7276e99ba53fc1d8,,,"DGEEC: Prosseguimento de estudos dos diplomados CTeSP 2020/21 (jan 2023), por IES"
+dgeec_ctesp_2019_20,1,file,dgeec_ctesp,https://www.dgeec.medu.pt/api/ficheiros/65799a117276e99ba53fc1e4,,,"DGEEC: Prosseguimento de estudos dos diplomados CTeSP 2019/20 (dez 2021), por IES"
+dgeec_ctesp_2018_19,1,file,dgeec_ctesp,https://www.dgeec.medu.pt/api/ficheiros/65799afd7276e99ba53fc1ef,,,"DGEEC: Prosseguimento de estudos dos diplomados CTeSP 2018/19 (dez 2020), por IES"
+dgeec_ctesp_2017_18,1,file,dgeec_ctesp,https://www.dgeec.medu.pt/api/ficheiros/65799b867276e99ba53fc1f8,,,"DGEEC: Prosseguimento de estudos dos diplomados CTeSP 2017/18 (dez 2019), por IES"
+dgeec_ctesp_5anos_2024,1,file,none,https://www.dgeec.medu.pt/api/ficheiros/660aa567575c9a81f8b84301,,,"DGEEC: Prosseguimento CTeSP, situação nos últimos 5 anos (abr 2024). Só nacional, sem IES"
+dgeec_ctesp_lic_2016_2024,1,file,none,https://www.dgeec.medu.pt/api/ficheiros/69de0f0ada4ccbf2f0e06bbc,,,"DGEEC: Prosseguimento CTeSP e licenciatura 2016/17 a 2023/24 (abr 2026). Só nacional, sem IES"
+dgeec_lic_2019_20,1,file,dgeec_licenciatura,https://www.dgeec.medu.pt/api/ficheiros/65799a657276e99ba53fc1e7,,,"DGEEC: Prosseguimento de estudos dos diplomados de licenciatura 2019/20 (dez 2021), por IES"
+dgeec_lic_2017_18,1,file,dgeec_licenciatura,https://www.dgeec.medu.pt/api/ficheiros/65799bc27276e99ba53fc1fe,,,"DGEEC: Prosseguimento de estudos dos diplomados de licenciatura 2017/18 (abr 2021), por IES"
+dgeec_lic_2016_17,1,file,dgeec_licenciatura,https://www.dgeec.medu.pt/api/ficheiros/65799c0f7276e99ba53fc204,,,"DGEEC: Prosseguimento de estudos dos diplomados de licenciatura 2016/17 (set 2019), por IES"
+dges_ctesp_concurso,1,file,none,https://www.dges.gov.pt/pt/pagina/titulares-de-diploma-de-tecnico-superior-profissional,,,"DGES: concurso especial para titulares de CTeSP (regras). Guardado como referência"

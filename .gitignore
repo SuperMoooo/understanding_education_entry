@@ -1,0 +1,13 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Downloaded raw files (re-created by `python -m pipeline fetch`; hashes in data/manifest.csv)
+data/raw/

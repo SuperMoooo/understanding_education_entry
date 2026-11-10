@@ -1,0 +1,283 @@
+edicao,Estabelecimento,CodigoEstabelecimento,UnidadeOrganica,CodigoUnidadeOrganica,Natureza,TipoEnsino,NomeCurso,CodigoCurso,Grau,NumeroInscritosPrimeiroAnoPrimeiraVez2Anos,PercentagemDiplomadosCurso,PercentagemOutroCursoMesmoEstabelecimento,PercentagemNaoEncontradosEnsinoSuperior,AnosInscritosPrimeiroAnoPrimeiraVez,PercentagemInscritosMesmoEstabelecimentoCurso,PercentagemNoutroEstabelecimento,amostra_pequena
+2015,Instituto Politécnico de Tomar,3240,Escola Superior de Gestão de Tomar,3241,Público,Politécnico,Gestão de Empresas,9152,Licenciatura,70,0.0,1.428571428571429,30.0,2012/13_2011/12,65.71428571428571,2.857142857142857,False
+2015,Instituto Politécnico de Tomar,3240,Escola Superior de Gestão de Tomar,3241,Público,Politécnico,Gestão de Recursos Humanos e Comportamento Organizacional,9640,Licenciatura,50,0.0,0.0,18.0,2012/13_2011/12,82.0,0.0,False
+2015,Instituto Politécnico de Tomar,3240,Escola Superior de Gestão de Tomar,3241,Público,Politécnico,Gestão Turística e Cultural,9641,Licenciatura,27,0.0,0.0,14.81481481481481,2012/13_2011/12,85.18518518518519,0.0,False
+2015,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,3242,Público,Politécnico,Engenharia Civil,9089,Licenciatura,24,0.0,0.0,16.66666666666667,2012/13_2011/12,83.33333333333333,0.0,False
+2015,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,3242,Público,Politécnico,Engenharia Electrotécnica e de Computadores,9112,Licenciatura,30,0.0,3.333333333333333,13.33333333333333,2012/13_2011/12,83.33333333333333,0.0,False
+2015,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,3242,Público,Politécnico,Engenharia Informática,9119,Licenciatura,72,0.0,2.777777777777778,20.83333333333333,2012/13_2011/12,68.05555555555556,8.333333333333334,False
+2015,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,3242,Público,Politécnico,Engenharia Química e Bioquímica,9184,Licenciatura,17,0.0,0.0,23.52941176470588,2012/13_2011/12,76.47058823529412,0.0,False
+2015,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,3242,Público,Politécnico,Conservação e Restauro,9380,Licenciatura,51,0.0,1.96078431372549,11.76470588235294,2012/13_2011/12,78.43137254901961,7.84313725490196,False
+2015,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,3242,Público,Politécnico,Artes Plásticas - Pintura e Intermédia,9643,Licenciatura,18,0.0,0.0,5.555555555555555,2012/13_2011/12,72.22222222222223,22.22222222222222,False
+2015,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,3242,Público,Politécnico,Design e Tecnologia das Artes Gráficas,9644,Licenciatura,65,0.0,0.0,12.30769230769231,2012/13_2011/12,87.6923076923077,0.0,False
+2015,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,3242,Público,Politécnico,Fotografia,9645,Licenciatura,57,0.0,5.263157894736842,14.03508771929824,2012/13_2011/12,71.9298245614035,8.771929824561404,False
+2015,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Abrantes,3243,Público,Politécnico,Comunicação Social,9054,Licenciatura,51,0.0,1.96078431372549,9.803921568627452,2012/13_2011/12,84.31372549019608,3.92156862745098,False
+2015,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Abrantes,3243,Público,Politécnico,Engenharia Mecânica,9123,Licenciatura,61,0.0,1.639344262295082,32.78688524590164,2012/13_2011/12,63.9344262295082,1.639344262295082,False
+2015,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Abrantes,3243,Público,Politécnico,Tecnologias de Informação e Comunicação,9250,Licenciatura,32,0.0,0.0,31.25,2012/13_2011/12,62.5,6.25,False
+2015,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Abrantes,3243,Público,Politécnico,Vídeo e Cinema Documental,9932,Licenciatura,60,0.0,0.0,6.666666666666667,2012/13_2011/12,91.66666666666667,1.666666666666667,False
+2016,Instituto Politécnico de Tomar,3240,Escola Superior de Gestão de Tomar,3241,Público,Politécnico,Gestão de Empresas,9152,Licenciatura,94,0.0,1.063829787234043,26.59574468085106,2013/14_2012/13,69.14893617021276,3.191489361702128,False
+2016,Instituto Politécnico de Tomar,3240,Escola Superior de Gestão de Tomar,3241,Público,Politécnico,Gestão de Recursos Humanos e Comportamento Organizacional,9640,Licenciatura,40,0.0,2.5,15.0,2013/14_2012/13,80.0,2.5,False
+2016,Instituto Politécnico de Tomar,3240,Escola Superior de Gestão de Tomar,3241,Público,Politécnico,Gestão Turística e Cultural,9641,Licenciatura,42,0.0,0.0,11.90476190476191,2013/14_2012/13,83.33333333333333,4.761904761904762,False
+2016,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,3242,Público,Politécnico,Engenharia Civil,9089,Licenciatura,20,0.0,0.0,10.0,2013/14_2012/13,90.0,0.0,False
+2016,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,3242,Público,Politécnico,Engenharia Electrotécnica e de Computadores,9112,Licenciatura,39,0.0,0.0,28.2051282051282,2013/14_2012/13,71.7948717948718,0.0,False
+2016,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,3242,Público,Politécnico,Engenharia Informática,9119,Licenciatura,55,0.0,3.636363636363636,14.54545454545454,2013/14_2012/13,76.36363636363636,5.454545454545454,False
+2016,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,3242,Público,Politécnico,Engenharia Química e Bioquímica,9184,Licenciatura,20,0.0,0.0,35.0,2013/14_2012/13,60.0,5.0,False
+2016,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,3242,Público,Politécnico,Conservação e Restauro,9380,Licenciatura,59,0.0,3.389830508474576,5.084745762711864,2013/14_2012/13,88.13559322033899,3.389830508474576,False
+2016,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,3242,Público,Politécnico,Design e Tecnologia das Artes Gráficas,9644,Licenciatura,50,0.0,0.0,10.0,2013/14_2012/13,90.0,0.0,False
+2016,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,3242,Público,Politécnico,Fotografia,9645,Licenciatura,46,0.0,0.0,13.04347826086956,2013/14_2012/13,80.43478260869566,6.521739130434782,False
+2016,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Abrantes,3243,Público,Politécnico,Comunicação Social,9054,Licenciatura,36,0.0,0.0,19.44444444444444,2013/14_2012/13,77.77777777777777,2.777777777777778,False
+2016,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Abrantes,3243,Público,Politécnico,Engenharia Mecânica,9123,Licenciatura,43,0.0,2.325581395348837,18.6046511627907,2013/14_2012/13,79.06976744186046,0.0,False
+2016,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Abrantes,3243,Público,Politécnico,Tecnologias de Informação e Comunicação,9250,Licenciatura,33,0.0,6.060606060606061,33.33333333333334,2013/14_2012/13,60.60606060606061,0.0,False
+2016,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Abrantes,3243,Público,Politécnico,Vídeo e Cinema Documental,9932,Licenciatura,39,0.0,0.0,10.25641025641026,2013/14_2012/13,87.17948717948718,2.564102564102564,False
+2017,Instituto Politécnico de Tomar,3240,Escola Superior de Gestão de Tomar,3241,Público,Politécnico,Gestão de Empresas,9152,Licenciatura,80,0.0,0.0,18.8,2014/15_2013/14,76.3,5.0,False
+2017,Instituto Politécnico de Tomar,3240,Escola Superior de Gestão de Tomar,3241,Público,Politécnico,Gestão de Recursos Humanos e Comportamento Organizacional,9640,Licenciatura,45,0.0,2.2,20.0,2014/15_2013/14,75.6,2.2,False
+2017,Instituto Politécnico de Tomar,3240,Escola Superior de Gestão de Tomar,3241,Público,Politécnico,Gestão Turística e Cultural,9641,Licenciatura,50,0.0,0.0,10.0,2014/15_2013/14,84.0,6.0,False
+2017,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,3242,Público,Politécnico,Engenharia Civil,9089,Licenciatura,21,0.0,4.8,28.6,2014/15_2013/14,66.7,0.0,False
+2017,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,3242,Público,Politécnico,Engenharia Electrotécnica e de Computadores,9112,Licenciatura,45,0.0,0.0,31.1,2014/15_2013/14,68.9,0.0,False
+2017,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,3242,Público,Politécnico,Engenharia Informática,9119,Licenciatura,56,0.0,5.4,17.9,2014/15_2013/14,73.2,3.6,False
+2017,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,3242,Público,Politécnico,Engenharia Química e Bioquímica,9184,Licenciatura,22,0.0,0.0,22.7,2014/15_2013/14,72.7,4.5,False
+2017,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,3242,Público,Politécnico,Conservação e Restauro,9380,Licenciatura,53,0.0,1.9,1.9,2014/15_2013/14,96.2,0.0,False
+2017,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,3242,Público,Politécnico,Design e Tecnologia das Artes Gráficas,9644,Licenciatura,48,0.0,2.1,8.3,2014/15_2013/14,87.5,2.1,False
+2017,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,3242,Público,Politécnico,Fotografia,9645,Licenciatura,31,0.0,0.0,12.9,2014/15_2013/14,83.9,3.2,False
+2017,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Abrantes,3243,Público,Politécnico,Comunicação Social,9054,Licenciatura,42,0.0,0.0,14.3,2014/15_2013/14,85.7,0.0,False
+2017,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Abrantes,3243,Público,Politécnico,Engenharia Mecânica,9123,Licenciatura,26,0.0,0.0,38.5,2014/15_2013/14,61.5,0.0,False
+2017,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Abrantes,3243,Público,Politécnico,Vídeo e Cinema Documental,9932,Licenciatura,26,0.0,0.0,7.7,2014/15_2013/14,84.6,7.7,False
+2018,Instituto Politécnico de Tomar,3240,Escola Superior de Gestão de Tomar,3241,Público,Politécnico,Contabilidade,9056,Licenciatura,16,0.0,6.3,18.8,2015/16_,75.0,0.0,False
+2018,Instituto Politécnico de Tomar,3240,Escola Superior de Gestão de Tomar,3241,Público,Politécnico,Gestão de Empresas,9152,Licenciatura,93,0.0,0.0,18.3,2015/16_2014/15,79.6,2.2,False
+2018,Instituto Politécnico de Tomar,3240,Escola Superior de Gestão de Tomar,3241,Público,Politécnico,Gestão de Recursos Humanos e Comportamento Organizacional,9640,Licenciatura,57,0.0,0.0,21.1,2015/16_2014/15,77.2,1.8,False
+2018,Instituto Politécnico de Tomar,3240,Escola Superior de Gestão de Tomar,3241,Público,Politécnico,Gestão Turística e Cultural,9641,Licenciatura,48,0.0,0.0,4.2,2015/16_2014/15,87.5,8.3,False
+2018,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,3242,Público,Politécnico,Engenharia Electrotécnica e de Computadores,9112,Licenciatura,53,0.0,1.9,22.6,2015/16_2014/15,73.6,1.9,False
+2018,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,3242,Público,Politécnico,Engenharia Informática,9119,Licenciatura,98,0.0,3.1,16.3,2015/16_2014/15,74.5,6.1,False
+2018,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,3242,Público,Politécnico,Engenharia Química e Bioquímica,9184,Licenciatura,18,0.0,0.0,11.1,2015/16_2014/15,88.9,0.0,False
+2018,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,3242,Público,Politécnico,Conservação e Restauro,9380,Licenciatura,45,0.0,0.0,13.3,2015/16_2014/15,86.7,0.0,False
+2018,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,3242,Público,Politécnico,Design e Tecnologia das Artes Gráficas,9644,Licenciatura,52,0.0,1.9,7.7,2015/16_2014/15,88.5,1.9,False
+2018,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,3242,Público,Politécnico,Fotografia,9645,Licenciatura,37,0.0,2.7,13.5,2015/16_2014/15,75.7,8.1,False
+2018,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Abrantes,3243,Público,Politécnico,Comunicação Social,9054,Licenciatura,54,0.0,0.0,3.7,2015/16_2014/15,90.7,5.6,False
+2018,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Abrantes,3243,Público,Politécnico,Engenharia Mecânica,9123,Licenciatura,22,0.0,0.0,40.9,2015/16_2014/15,54.5,4.5,False
+2018,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Abrantes,3243,Público,Politécnico,Vídeo e Cinema Documental,9932,Licenciatura,26,0.0,0.0,0.0,2015/16_2014/15,96.2,3.8,False
+2019,Instituto Politécnico de Tomar,3240,Escola Superior de Gestão de Tomar,3241,Público,Politécnico,Contabilidade,9056,Licenciatura,25,0.0,8.0,12.0,2016/17_2015/16,72.0,8.0,False
+2019,Instituto Politécnico de Tomar,3240,Escola Superior de Gestão de Tomar,3241,Público,Politécnico,Gestão de Empresas,9152,Licenciatura,111,0.0,0.0,19.8,2016/17_2015/16,80.2,0.0,False
+2019,Instituto Politécnico de Tomar,3240,Escola Superior de Gestão de Tomar,3241,Público,Politécnico,Gestão de Recursos Humanos e Comportamento Organizacional,9640,Licenciatura,68,0.0,1.5,25.0,2016/17_2015/16,69.1,4.4,False
+2019,Instituto Politécnico de Tomar,3240,Escola Superior de Gestão de Tomar,3241,Público,Politécnico,Gestão Turística e Cultural,9641,Licenciatura,60,0.0,0.0,3.3,2016/17_2015/16,90.0,6.7,False
+2019,Instituto Politécnico de Tomar,3240,Escola Superior de Gestão de Tomar,3241,Público,Politécnico,Gestão Administrativa de Recursos Humanos,T016,CTeSP,25,0.0,4.0,16.0,2016/17_2015/16,80.0,0.0,False
+2019,Instituto Politécnico de Tomar,3240,Escola Superior de Gestão de Tomar,3241,Público,Politécnico,Contabilidade e Gestão,T029,CTeSP,48,0.0,2.1,20.8,2016/17_2015/16,77.1,0.0,False
+2019,Instituto Politécnico de Tomar,3240,Escola Superior de Gestão de Tomar,3241,Público,Politécnico,Produção de Atividades para o Turismo Cultural,T118,CTeSP,47,0.0,4.3,27.7,2016/17_2015/16,68.1,0.0,False
+2019,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,3242,Público,Politécnico,Engenharia Electrotécnica e de Computadores,9112,Licenciatura,55,0.0,1.8,16.4,2016/17_2015/16,80.0,1.8,False
+2019,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,3242,Público,Politécnico,Engenharia Informática,9119,Licenciatura,132,0.0,3.8,11.4,2016/17_2015/16,76.5,8.3,False
+2019,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,3242,Público,Politécnico,Engenharia Química e Bioquímica,9184,Licenciatura,11,0.0,0.0,9.1,2016/17_2015/16,90.9,0.0,False
+2019,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,3242,Público,Politécnico,Conservação e Restauro,9380,Licenciatura,42,0.0,0.0,14.3,2016/17_2015/16,81.0,4.8,False
+2019,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,3242,Público,Politécnico,Design e Tecnologia das Artes Gráficas,9644,Licenciatura,44,0.0,0.0,11.4,2016/17_2015/16,84.1,4.5,False
+2019,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,3242,Público,Politécnico,Fotografia,9645,Licenciatura,48,0.0,4.2,12.5,2016/17_2015/16,77.1,6.3,False
+2019,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,3242,Público,Politécnico,Construção e Reabilitação,L106,Licenciatura,3,0.0,0.0,66.7,2016/17_,33.3,0.0,True
+2019,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,3242,Público,Politécnico,Tecnologias e Programação de Sistemas de Informação,T024,CTeSP,51,0.0,3.9,19.6,2016/17_2015/16,74.5,2.0,False
+2019,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,3242,Público,Politécnico,Produção Artística para a Conservação e Restauro,T055,CTeSP,4,0.0,0.0,25.0,2016/17_,75.0,0.0,True
+2019,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,3242,Público,Politécnico,Design Multimédia,T175,CTeSP,46,0.0,0.0,10.9,2016/17_2015/16,89.1,0.0,False
+2019,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,3242,Público,Politécnico,Qualidade Ambiental,T182,CTeSP,4,0.0,0.0,25.0,2016/17_,75.0,0.0,True
+2019,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,3242,Público,Politécnico,Segurança e Proteção Civil,T223,CTeSP,33,0.0,0.0,18.2,2016/17_2015/16,75.8,6.1,False
+2019,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,3242,Público,Politécnico,Automação Industrial,T263,CTeSP,16,0.0,0.0,0.0,2016/17_2015/16,93.8,6.3,False
+2019,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,3242,Público,Politécnico,Instalações Elétricas e Manutenção Industrial,T273,CTeSP,14,0.0,7.1,7.1,2016/17_2015/16,85.7,0.0,False
+2019,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Abrantes,3243,Público,Politécnico,Comunicação Social,9054,Licenciatura,50,0.0,0.0,6.0,2016/17_2015/16,84.0,10.0,False
+2019,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Abrantes,3243,Público,Politécnico,Engenharia Mecânica,9123,Licenciatura,18,0.0,0.0,38.9,2016/17_2015/16,55.6,5.6,False
+2019,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Abrantes,3243,Público,Politécnico,Manutenção de Sistemas Mecatrónicos,T121,CTeSP,23,0.0,0.0,13.0,2016/17_2015/16,87.0,0.0,False
+2019,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Abrantes,3243,Público,Politécnico,Web e Dispositivos Móveis,T200,CTeSP,31,0.0,0.0,48.4,2016/17_2015/16,48.4,3.2,False
+2019,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Abrantes,3243,Público,Politécnico,Animação e Modelação 3D,T240,CTeSP,18,0.0,0.0,5.6,2016/17_2015/16,88.9,5.6,False
+2020,Instituto Politécnico de Tomar,3240,Escola Superior de Gestão de Tomar,3241,Público,Politécnico,Contabilidade,9056,Licenciatura,24,0.0,4.2,4.2,2017/18_2016/17,75.0,16.7,False
+2020,Instituto Politécnico de Tomar,3240,Escola Superior de Gestão de Tomar,3241,Público,Politécnico,Gestão de Empresas,9152,Licenciatura,141,0.0,1.4,14.9,2017/18_2016/17,80.1,3.5,False
+2020,Instituto Politécnico de Tomar,3240,Escola Superior de Gestão de Tomar,3241,Público,Politécnico,Gestão de Recursos Humanos e Comportamento Organizacional,9640,Licenciatura,78,0.0,1.3,20.5,2017/18_2016/17,75.6,2.6,False
+2020,Instituto Politécnico de Tomar,3240,Escola Superior de Gestão de Tomar,3241,Público,Politécnico,Gestão Turística e Cultural,9641,Licenciatura,70,0.0,0.0,7.1,2017/18_2016/17,88.6,4.3,False
+2020,Instituto Politécnico de Tomar,3240,Escola Superior de Gestão de Tomar,3241,Público,Politécnico,Gestão Comercial e Vendas,T002,CTeSP,6,0.0,0.0,33.3,2017/18_,66.7,0.0,False
+2020,Instituto Politécnico de Tomar,3240,Escola Superior de Gestão de Tomar,3241,Público,Politécnico,Gestão Administrativa de Recursos Humanos,T016,CTeSP,16,0.0,6.3,12.5,2017/18_2016/17,75.0,6.3,False
+2020,Instituto Politécnico de Tomar,3240,Escola Superior de Gestão de Tomar,3241,Público,Politécnico,Contabilidade e Gestão,T029,CTeSP,40,0.0,2.5,17.5,2017/18_2016/17,80.0,0.0,False
+2020,Instituto Politécnico de Tomar,3240,Escola Superior de Gestão de Tomar,3241,Público,Politécnico,Produção de Atividades para o Turismo Cultural,T118,CTeSP,22,0.0,4.5,13.6,2017/18_2016/17,81.8,0.0,False
+2020,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,3242,Público,Politécnico,Engenharia Electrotécnica e de Computadores,9112,Licenciatura,45,0.0,0.0,8.9,2017/18_2016/17,91.1,0.0,False
+2020,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,3242,Público,Politécnico,Engenharia Informática,9119,Licenciatura,129,0.0,3.1,10.1,2017/18_2016/17,76.0,10.9,False
+2020,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,3242,Público,Politécnico,Engenharia Química e Bioquímica,9184,Licenciatura,8,0.0,0.0,0.0,2017/18_2016/17,100.0,0.0,False
+2020,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,3242,Público,Politécnico,Conservação e Restauro,9380,Licenciatura,39,0.0,0.0,10.3,2017/18_2016/17,84.6,5.1,False
+2020,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,3242,Público,Politécnico,Design e Tecnologia das Artes Gráficas,9644,Licenciatura,44,0.0,0.0,9.1,2017/18_2016/17,84.1,6.8,False
+2020,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,3242,Público,Politécnico,Fotografia,9645,Licenciatura,47,0.0,2.1,8.5,2017/18_2016/17,87.2,2.1,False
+2020,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,3242,Público,Politécnico,Tecnologias e Programação de Sistemas de Informação,T024,CTeSP,46,0.0,8.7,19.6,2017/18_2016/17,69.6,2.2,False
+2020,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,3242,Público,Politécnico,Design Multimédia,T175,CTeSP,41,0.0,2.4,17.1,2017/18_2016/17,80.5,0.0,False
+2020,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,3242,Público,Politécnico,Automação Industrial,T263,CTeSP,17,0.0,0.0,17.6,2017/18_2016/17,82.4,0.0,False
+2020,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Abrantes,3243,Público,Politécnico,Comunicação Social,9054,Licenciatura,56,0.0,0.0,10.7,2017/18_2016/17,85.7,3.6,False
+2020,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Abrantes,3243,Público,Politécnico,Engenharia Mecânica,9123,Licenciatura,33,0.0,0.0,30.3,2017/18_2016/17,69.7,0.0,False
+2020,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Abrantes,3243,Público,Politécnico,Informática e Tecnologias Multimédia,L143,Licenciatura,6,0.0,16.7,0.0,2017/18_,83.3,0.0,False
+2020,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Abrantes,3243,Público,Politécnico,Som e Imagem,T028,CTeSP,16,0.0,0.0,25.0,2017/18_,75.0,0.0,False
+2020,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Abrantes,3243,Público,Politécnico,Manutenção de Sistemas Mecatrónicos,T121,CTeSP,25,0.0,4.0,16.0,2017/18_2016/17,80.0,0.0,False
+2020,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Abrantes,3243,Público,Politécnico,Informática,T142,CTeSP,4,0.0,25.0,0.0,2017/18_,75.0,0.0,True
+2020,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Abrantes,3243,Público,Politécnico,Web e Dispositivos Móveis,T200,CTeSP,27,0.0,0.0,59.3,2017/18_2016/17,37.0,3.7,False
+2020,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Abrantes,3243,Público,Politécnico,Animação e Modelação 3D,T240,CTeSP,13,0.0,0.0,7.7,2017/18_2016/17,92.3,0.0,False
+2021,Instituto Politécnico de Tomar,3240,Escola Superior de Gestão de Tomar,3241,Público,Politécnico,Contabilidade,9056,Licenciatura,32,0.0,3.1,6.3,2018/19_2017/18,84.4,6.3,False
+2021,Instituto Politécnico de Tomar,3240,Escola Superior de Gestão de Tomar,3241,Público,Politécnico,Gestão de Empresas,9152,Licenciatura,141,0.0,1.4,16.3,2018/19_2017/18,78.0,4.3,False
+2021,Instituto Politécnico de Tomar,3240,Escola Superior de Gestão de Tomar,3241,Público,Politécnico,Gestão de Recursos Humanos e Comportamento Organizacional,9640,Licenciatura,91,0.0,0.0,14.3,2018/19_2017/18,82.4,3.3,False
+2021,Instituto Politécnico de Tomar,3240,Escola Superior de Gestão de Tomar,3241,Público,Politécnico,Gestão Comercial e Vendas,T002,CTeSP,13,0.0,0.0,15.4,2018/19_2017/18,84.6,0.0,False
+2021,Instituto Politécnico de Tomar,3240,Escola Superior de Gestão de Tomar,3241,Público,Politécnico,Gestão Administrativa de Recursos Humanos,T016,CTeSP,28,0.0,3.6,25.0,2018/19_2017/18,67.9,3.6,False
+2021,Instituto Politécnico de Tomar,3240,Escola Superior de Gestão de Tomar,3241,Público,Politécnico,Contabilidade e Gestão,T029,CTeSP,30,0.0,6.7,16.7,2018/19_2017/18,73.3,3.3,False
+2021,Instituto Politécnico de Tomar,3240,Escola Superior de Gestão de Tomar,3241,Público,Politécnico,Produção de Atividades para o Turismo Cultural,T118,CTeSP,26,0.0,0.0,19.2,2018/19_2017/18,80.8,0.0,False
+2021,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,3242,Público,Politécnico,Engenharia Electrotécnica e de Computadores,9112,Licenciatura,34,0.0,0.0,23.5,2018/19_2017/18,73.5,2.9,False
+2021,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,3242,Público,Politécnico,Engenharia Informática,9119,Licenciatura,133,0.0,1.5,13.5,2018/19_2017/18,78.2,6.8,False
+2021,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,3242,Público,Politécnico,Conservação e Restauro,9380,Licenciatura,44,0.0,0.0,18.2,2018/19_2017/18,79.5,2.3,False
+2021,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,3242,Público,Politécnico,Design e Tecnologia das Artes Gráficas,9644,Licenciatura,56,0.0,1.8,5.4,2018/19_2017/18,91.1,1.8,False
+2021,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,3242,Público,Politécnico,Fotografia,9645,Licenciatura,52,0.0,3.8,5.8,2018/19_2017/18,88.5,1.9,False
+2021,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,3242,Público,Politécnico,Tecnologia Química,L142,Licenciatura,4,0.0,0.0,25.0,2018/19_,50.0,25.0,True
+2021,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,3242,Público,Politécnico,Tecnologias e Programação de Sistemas de Informação,T024,CTeSP,42,0.0,7.1,14.3,2018/19_2017/18,78.6,0.0,False
+2021,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,3242,Público,Politécnico,Design Multimédia,T175,CTeSP,30,0.0,3.3,16.7,2018/19_2017/18,76.7,3.3,False
+2021,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,3242,Público,Politécnico,Segurança e Proteção Civil,T223,CTeSP,24,0.0,0.0,25.0,2018/19_,75.0,0.0,False
+2021,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,3242,Público,Politécnico,Instalações Elétricas e Manutenção Industrial,T273,CTeSP,13,0.0,15.4,0.0,2018/19_,84.6,0.0,False
+2021,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Abrantes,3243,Público,Politécnico,Comunicação Social,9054,Licenciatura,63,0.0,0.0,11.1,2018/19_2017/18,88.9,0.0,False
+2021,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Abrantes,3243,Público,Politécnico,Engenharia Mecânica,9123,Licenciatura,40,0.0,0.0,30.0,2018/19_2017/18,67.5,2.5,False
+2021,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Abrantes,3243,Público,Politécnico,Informática e Tecnologias Multimédia,L143,Licenciatura,16,0.0,12.5,6.3,2018/19_2017/18,81.3,0.0,False
+2021,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Abrantes,3243,Público,Politécnico,Cinema Documental,L177,Licenciatura,15,0.0,0.0,46.7,2018/19_,53.3,0.0,False
+2021,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Abrantes,3243,Público,Politécnico,Som e Imagem,T028,CTeSP,29,0.0,0.0,13.8,2018/19_2017/18,86.2,0.0,False
+2021,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Abrantes,3243,Público,Politécnico,Manutenção de Sistemas Mecatrónicos,T121,CTeSP,22,0.0,4.5,9.1,2018/19_2017/18,86.4,0.0,False
+2021,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Abrantes,3243,Público,Politécnico,Informática,T142,CTeSP,16,0.0,6.3,12.5,2018/19_2017/18,81.3,0.0,False
+2021,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Abrantes,3243,Público,Politécnico,Web e Dispositivos Móveis,T200,CTeSP,23,0.0,0.0,52.2,2018/19_2017/18,43.5,4.3,False
+2021,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Abrantes,3243,Público,Politécnico,Desenvolvimento de Jogos Digitais,T390,CTeSP,5,0.0,0.0,40.0,2018/19_,60.0,0.0,True
+2021,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Abrantes,3243,Público,Politécnico,Artes para Jogos Digitais,T391,CTeSP,8,0.0,0.0,0.0,2018/19_,100.0,0.0,False
+2022,Instituto Politécnico de Tomar,3240,Escola Superior de Gestão de Tomar,3241,Público,Politécnico,Contabilidade,9056,Licenciatura,49,0.0,4.1,22.4,2019/20_2018/19,69.4,4.1,False
+2022,Instituto Politécnico de Tomar,3240,Escola Superior de Gestão de Tomar,3241,Público,Politécnico,Gestão de Empresas,9152,Licenciatura,109,0.0,0.9,20.2,2019/20_2018/19,74.3,4.6,False
+2022,Instituto Politécnico de Tomar,3240,Escola Superior de Gestão de Tomar,3241,Público,Politécnico,Gestão de Recursos Humanos e Comportamento Organizacional,9640,Licenciatura,100,0.0,0.0,14.0,2019/20_2018/19,79.0,7.0,False
+2022,Instituto Politécnico de Tomar,3240,Escola Superior de Gestão de Tomar,3241,Público,Politécnico,Gestão Comercial e Vendas,T002,CTeSP,9,0.0,11.1,0.0,2019/20_2018/19,88.9,0.0,False
+2022,Instituto Politécnico de Tomar,3240,Escola Superior de Gestão de Tomar,3241,Público,Politécnico,Gestão Administrativa de Recursos Humanos,T016,CTeSP,59,0.0,6.8,37.3,2019/20_2018/19,54.2,1.7,False
+2022,Instituto Politécnico de Tomar,3240,Escola Superior de Gestão de Tomar,3241,Público,Politécnico,Produção de Atividades para o Turismo Cultural,T118,CTeSP,13,0.0,0.0,15.4,2019/20_2018/19,84.6,0.0,False
+2022,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,3242,Público,Politécnico,Engenharia Electrotécnica e de Computadores,9112,Licenciatura,39,0.0,0.0,43.6,2019/20_2018/19,53.8,2.6,False
+2022,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,3242,Público,Politécnico,Engenharia Informática,9119,Licenciatura,138,0.0,1.4,22.5,2019/20_2018/19,71.7,4.3,False
+2022,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,3242,Público,Politécnico,Conservação e Restauro,9380,Licenciatura,55,0.0,0.0,18.2,2019/20_2018/19,78.2,3.6,False
+2022,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,3242,Público,Politécnico,Design e Tecnologia das Artes Gráficas,9644,Licenciatura,63,0.0,1.6,11.1,2019/20_2018/19,85.7,1.6,False
+2022,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,3242,Público,Politécnico,Fotografia,9645,Licenciatura,63,0.0,4.8,15.9,2019/20_2018/19,73.0,6.3,False
+2022,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,3242,Público,Politécnico,Tecnologia Química,L142,Licenciatura,23,0.0,0.0,65.2,2019/20_2018/19,26.1,8.7,False
+2022,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,3242,Público,Politécnico,Gestão da Edificação e Obras,L186,Licenciatura,12,0.0,0.0,66.7,2019/20_,33.3,0.0,False
+2022,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,3242,Público,Politécnico,Tecnologias e Programação de Sistemas de Informação,T024,CTeSP,52,0.0,0.0,26.9,2019/20_2018/19,71.2,1.9,False
+2022,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,3242,Público,Politécnico,Análises Laboratoriais,T080,CTeSP,1,0.0,0.0,0.0,2019/20_,0.0,100.0,True
+2022,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,3242,Público,Politécnico,Design Multimédia,T175,CTeSP,36,0.0,0.0,19.4,2019/20_2018/19,77.8,2.8,False
+2022,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,3242,Público,Politécnico,Segurança e Proteção Civil,T223,CTeSP,38,0.0,0.0,36.8,2019/20_2018/19,63.2,0.0,False
+2022,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,3242,Público,Politécnico,Automação Industrial,T263,CTeSP,15,0.0,0.0,33.3,2019/20_,60.0,6.7,False
+2022,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Abrantes,3243,Público,Politécnico,Comunicação Social,9054,Licenciatura,71,0.0,0.0,16.9,2019/20_2018/19,80.3,2.8,False
+2022,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Abrantes,3243,Público,Politécnico,Engenharia Mecânica,9123,Licenciatura,33,0.0,0.0,45.5,2019/20_2018/19,51.5,3.0,False
+2022,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Abrantes,3243,Público,Politécnico,Informática e Tecnologias Multimédia,L143,Licenciatura,29,0.0,3.4,55.2,2019/20_2018/19,34.5,6.9,False
+2022,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Abrantes,3243,Público,Politécnico,Cinema Documental,L177,Licenciatura,37,0.0,0.0,37.8,2019/20_2018/19,62.2,0.0,False
+2022,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Abrantes,3243,Público,Politécnico,Som e Imagem,T028,CTeSP,28,0.0,3.6,3.6,2019/20_2018/19,92.9,0.0,False
+2022,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Abrantes,3243,Público,Politécnico,Manutenção de Sistemas Mecatrónicos,T121,CTeSP,21,0.0,4.8,14.3,2019/20_2018/19,71.4,9.5,False
+2022,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Abrantes,3243,Público,Politécnico,Informática,T142,CTeSP,37,0.0,0.0,45.9,2019/20_2018/19,54.1,0.0,False
+2022,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Abrantes,3243,Público,Politécnico,Web e Dispositivos Móveis,T200,CTeSP,29,0.0,3.4,48.3,2019/20_2018/19,44.8,3.4,False
+2022,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Abrantes,3243,Público,Politécnico,Realização e Produção Televisiva,T376,CTeSP,15,0.0,0.0,40.0,2019/20_,60.0,0.0,False
+2023,Instituto Politécnico de Tomar,3240,Escola Superior de Gestão de Tomar,3241,Público,Politécnico,Contabilidade,9056,Licenciatura,67,0.0,1.5,32.8,2020/21_2019/20,61.2,4.5,False
+2023,Instituto Politécnico de Tomar,3240,Escola Superior de Gestão de Tomar,3241,Público,Politécnico,Gestão de Empresas,9152,Licenciatura,133,0.0,2.3,25.6,2020/21_2019/20,60.9,11.3,False
+2023,Instituto Politécnico de Tomar,3240,Escola Superior de Gestão de Tomar,3241,Público,Politécnico,Gestão de Recursos Humanos e Comportamento Organizacional,9640,Licenciatura,128,0.0,0.0,20.3,2020/21_2019/20,75.0,4.7,False
+2023,Instituto Politécnico de Tomar,3240,Escola Superior de Gestão de Tomar,3241,Público,Politécnico,Turismo e Gestão do Património Cultural,L207,Licenciatura,30,0.0,0.0,13.3,2020/21_,76.7,10.0,False
+2023,Instituto Politécnico de Tomar,3240,Escola Superior de Gestão de Tomar,3241,Público,Politécnico,Gestão Comercial e Vendas,T002,CTeSP,22,0.0,4.5,27.3,2020/21_2019/20,63.6,4.5,False
+2023,Instituto Politécnico de Tomar,3240,Escola Superior de Gestão de Tomar,3241,Público,Politécnico,Gestão Administrativa de Recursos Humanos,T016,CTeSP,63,0.0,4.8,41.3,2020/21_2019/20,50.8,3.2,False
+2023,Instituto Politécnico de Tomar,3240,Escola Superior de Gestão de Tomar,3241,Público,Politécnico,Contabilidade e Gestão,T029,CTeSP,29,0.0,3.4,34.5,2020/21_,55.2,6.9,False
+2023,Instituto Politécnico de Tomar,3240,Escola Superior de Gestão de Tomar,3241,Público,Politécnico,Produção de Atividades para o Turismo Cultural,T118,CTeSP,7,0.0,42.9,42.9,2020/21_2019/20,14.3,0.0,False
+2023,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,3242,Público,Politécnico,Engenharia Electrotécnica e de Computadores,9112,Licenciatura,52,0.0,0.0,38.5,2020/21_2019/20,57.7,3.8,False
+2023,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,3242,Público,Politécnico,Engenharia Informática,9119,Licenciatura,179,0.0,0.6,26.8,2020/21_2019/20,63.1,9.5,False
+2023,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,3242,Público,Politécnico,Conservação e Restauro,9380,Licenciatura,68,0.0,0.0,25.0,2020/21_2019/20,72.1,2.9,False
+2023,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,3242,Público,Politécnico,Design e Tecnologia das Artes Gráficas,9644,Licenciatura,63,0.0,0.0,33.3,2020/21_2019/20,65.1,1.6,False
+2023,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,3242,Público,Politécnico,Fotografia,9645,Licenciatura,64,0.0,1.6,34.4,2020/21_2019/20,56.3,7.8,False
+2023,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,3242,Público,Politécnico,Tecnologia Química,L142,Licenciatura,29,0.0,0.0,72.4,2020/21_2019/20,24.1,3.4,False
+2023,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,3242,Público,Politécnico,Gestão da Edificação e Obras,L186,Licenciatura,25,0.0,0.0,60.0,2020/21_2019/20,40.0,0.0,False
+2023,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,3242,Público,Politécnico,Tecnologias e Programação de Sistemas de Informação,T024,CTeSP,58,0.0,0.0,46.6,2020/21_2019/20,46.6,6.9,False
+2023,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,3242,Público,Politécnico,Análises Laboratoriais,T080,CTeSP,7,0.0,0.0,71.4,2020/21_2019/20,14.3,14.3,False
+2023,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,3242,Público,Politécnico,Design Multimédia,T175,CTeSP,43,0.0,0.0,18.6,2020/21_2019/20,81.4,0.0,False
+2023,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,3242,Público,Politécnico,Segurança e Proteção Civil,T223,CTeSP,37,0.0,2.7,43.2,2020/21_2019/20,54.1,0.0,False
+2023,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,3242,Público,Politécnico,Automação Industrial,T263,CTeSP,34,0.0,0.0,38.2,2020/21_2019/20,55.9,5.9,False
+2023,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,3242,Público,Politécnico,Instalações Elétricas e Manutenção Industrial,T273,CTeSP,8,0.0,25.0,75.0,2020/21_,0.0,0.0,False
+2023,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,3242,Público,Politécnico,Tecnologias Integradas de Produção Industrial,T516,CTeSP,5,0.0,0.0,20.0,2020/21_,80.0,0.0,True
+2023,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Abrantes,3243,Público,Politécnico,Engenharia Mecânica,9123,Licenciatura,36,0.0,0.0,41.7,2020/21_2019/20,58.3,0.0,False
+2023,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Abrantes,3243,Público,Politécnico,Informática e Tecnologias Multimédia,L143,Licenciatura,41,0.0,0.0,63.4,2020/21_2019/20,31.7,4.9,False
+2023,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Abrantes,3243,Público,Politécnico,Cinema Documental,L177,Licenciatura,48,0.0,0.0,39.6,2020/21_2019/20,58.3,2.1,False
+2023,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Abrantes,3243,Público,Politécnico,Manutenção de Sistemas Mecatrónicos,T121,CTeSP,28,0.0,3.6,39.3,2020/21_2019/20,50.0,7.1,False
+2023,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Abrantes,3243,Público,Politécnico,Informática,T142,CTeSP,44,0.0,2.3,61.4,2020/21_2019/20,36.4,0.0,False
+2023,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Abrantes,3243,Público,Politécnico,Realização e Produção Televisiva,T376,CTeSP,39,0.0,10.3,41.0,2020/21_2019/20,43.6,5.1,False
+2023,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Abrantes,3243,Público,Politécnico,Animação e Modelação 3D e Jogos,T543,CTeSP,22,0.0,50.0,40.9,2020/21_,9.1,0.0,False
+2024,Instituto Politécnico de Tomar,3240,Escola Superior de Gestão de Tomar,3241,Público,Politécnico,Contabilidade,9056,Licenciatura,58,0.0,0.0,29.3,2021/22_2020/21,65.5,5.2,False
+2024,Instituto Politécnico de Tomar,3240,Escola Superior de Gestão de Tomar,3241,Público,Politécnico,Gestão de Empresas,9152,Licenciatura,140,0.0,1.4,32.1,2021/22_2020/21,57.1,9.3,False
+2024,Instituto Politécnico de Tomar,3240,Escola Superior de Gestão de Tomar,3241,Público,Politécnico,Gestão de Recursos Humanos e Comportamento Organizacional,9640,Licenciatura,126,0.0,1.6,26.2,2021/22_2020/21,69.0,3.2,False
+2024,Instituto Politécnico de Tomar,3240,Escola Superior de Gestão de Tomar,3241,Público,Politécnico,Turismo e Gestão do Património Cultural,L207,Licenciatura,56,0.0,0.0,25.0,2021/22_2020/21,66.1,8.9,False
+2024,Instituto Politécnico de Tomar,3240,Escola Superior de Gestão de Tomar,3241,Público,Politécnico,Gestão Comercial e Vendas,T002,CTeSP,40,0.0,0.0,55.0,2021/22_2020/21,42.5,2.5,False
+2024,Instituto Politécnico de Tomar,3240,Escola Superior de Gestão de Tomar,3241,Público,Politécnico,Gestão Administrativa de Recursos Humanos,T016,CTeSP,45,0.0,0.0,35.6,2021/22_2020/21,62.2,2.2,False
+2024,Instituto Politécnico de Tomar,3240,Escola Superior de Gestão de Tomar,3241,Público,Politécnico,Contabilidade e Gestão,T029,CTeSP,51,0.0,3.9,39.2,2021/22_2020/21,51.0,5.9,False
+2024,Instituto Politécnico de Tomar,3240,Escola Superior de Gestão de Tomar,3241,Público,Politécnico,Marketing Digital,T059,CTeSP,23,0.0,0.0,39.1,2021/22_,60.9,0.0,False
+2024,Instituto Politécnico de Tomar,3240,Escola Superior de Gestão de Tomar,3241,Público,Politécnico,Informática de Gestão,T067,CTeSP,16,0.0,0.0,25.0,2021/22_,68.8,6.3,False
+2024,Instituto Politécnico de Tomar,3240,Escola Superior de Gestão de Tomar,3241,Público,Politécnico,Gestão de Turismo,T125,CTeSP,31,0.0,0.0,45.2,2021/22_,51.6,3.2,False
+2024,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,3242,Público,Politécnico,Engenharia Electrotécnica e de Computadores,9112,Licenciatura,43,0.0,0.0,37.2,2021/22_2020/21,55.8,7.0,False
+2024,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,3242,Público,Politécnico,Engenharia Informática,9119,Licenciatura,163,0.0,2.5,22.1,2021/22_2020/21,63.8,11.7,False
+2024,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,3242,Público,Politécnico,Conservação e Restauro,9380,Licenciatura,78,0.0,0.0,20.5,2021/22_2020/21,74.4,5.1,False
+2024,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,3242,Público,Politécnico,Design e Tecnologia das Artes Gráficas,9644,Licenciatura,99,0.0,0.0,23.2,2021/22_2020/21,69.7,7.1,False
+2024,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,3242,Público,Politécnico,Fotografia,9645,Licenciatura,63,0.0,6.3,36.5,2021/22_2020/21,54.0,3.2,False
+2024,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,3242,Público,Politécnico,Tecnologia Química,L142,Licenciatura,27,0.0,3.7,37.0,2021/22_2020/21,55.6,3.7,False
+2024,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,3242,Público,Politécnico,Gestão da Edificação e Obras,L186,Licenciatura,16,0.0,0.0,43.8,2021/22_2020/21,56.3,0.0,False
+2024,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,3242,Público,Politécnico,Tecnologias e Programação de Sistemas de Informação,T024,CTeSP,66,0.0,0.0,36.4,2021/22_2020/21,56.1,7.6,False
+2024,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,3242,Público,Politécnico,Análises Laboratoriais,T080,CTeSP,30,0.0,0.0,50.0,2021/22_2020/21,50.0,0.0,False
+2024,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,3242,Público,Politécnico,Design Multimédia,T175,CTeSP,43,0.0,0.0,14.0,2021/22_2020/21,83.7,2.3,False
+2024,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,3242,Público,Politécnico,Segurança e Proteção Civil,T223,CTeSP,56,0.0,1.8,39.3,2021/22_2020/21,58.9,0.0,False
+2024,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,3242,Público,Politécnico,Automação Industrial,T263,CTeSP,28,0.0,7.1,46.4,2021/22_2020/21,42.9,3.6,False
+2024,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,3242,Público,Politécnico,Tecnologias Integradas de Produção Industrial,T516,CTeSP,8,0.0,12.5,25.0,2021/22_2020/21,62.5,0.0,False
+2024,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Abrantes,3243,Público,Politécnico,Engenharia Mecânica,9123,Licenciatura,41,0.0,0.0,26.8,2021/22_2020/21,73.2,0.0,False
+2024,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Abrantes,3243,Público,Politécnico,Informática e Tecnologias Multimédia,L143,Licenciatura,36,0.0,2.8,36.1,2021/22_2020/21,61.1,0.0,False
+2024,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Abrantes,3243,Público,Politécnico,Manutenção de Sistemas Mecatrónicos,T121,CTeSP,30,0.0,0.0,33.3,2021/22_2020/21,66.7,0.0,False
+2024,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Abrantes,3243,Público,Politécnico,Informática,T142,CTeSP,57,0.0,3.5,36.8,2021/22_2020/21,59.6,0.0,False
+2024,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Abrantes,3243,Público,Politécnico,Animação e Modelação 3D e Jogos,T543,CTeSP,48,0.0,22.9,31.3,2021/22_2020/21,45.8,0.0,False
+2025,Instituto Politécnico de Tomar,3240,Escola Superior de Gestão de Tomar,3241,Público,Politécnico,Contabilidade,9056,Licenciatura,50,0.0,0.0,18.0,2022/23_2021/22,74.0,8.0,False
+2025,Instituto Politécnico de Tomar,3240,Escola Superior de Gestão de Tomar,3241,Público,Politécnico,Gestão de Empresas,9152,Licenciatura,130,0.0,0.8,27.7,2022/23_2021/22,66.2,5.4,False
+2025,Instituto Politécnico de Tomar,3240,Escola Superior de Gestão de Tomar,3241,Público,Politécnico,Gestão de Recursos Humanos e Comportamento Organizacional,9640,Licenciatura,96,0.0,2.1,21.9,2022/23_2021/22,72.9,3.1,False
+2025,Instituto Politécnico de Tomar,3240,Escola Superior de Gestão de Tomar,3241,Público,Politécnico,Turismo e Gestão do Património Cultural,L207,Licenciatura,64,0.0,1.6,29.7,2022/23_2021/22,62.5,6.3,False
+2025,Instituto Politécnico de Tomar,3240,Escola Superior de Gestão de Tomar,3241,Público,Politécnico,Gestão Comercial e Vendas,T002,CTeSP,24,0.0,0.0,79.2,2022/23_2021/22,20.8,0.0,False
+2025,Instituto Politécnico de Tomar,3240,Escola Superior de Gestão de Tomar,3241,Público,Politécnico,Gestão Administrativa de Recursos Humanos,T016,CTeSP,55,0.0,0.0,30.9,2022/23_2021/22,69.1,0.0,False
+2025,Instituto Politécnico de Tomar,3240,Escola Superior de Gestão de Tomar,3241,Público,Politécnico,Contabilidade e Gestão,T029,CTeSP,41,0.0,4.9,41.5,2022/23_2021/22,51.2,2.4,False
+2025,Instituto Politécnico de Tomar,3240,Escola Superior de Gestão de Tomar,3241,Público,Politécnico,Marketing Digital,T059,CTeSP,58,0.0,0.0,31.0,2022/23_2021/22,65.5,3.4,False
+2025,Instituto Politécnico de Tomar,3240,Escola Superior de Gestão de Tomar,3241,Público,Politécnico,Informática de Gestão,T067,CTeSP,27,0.0,0.0,25.9,2022/23_2021/22,70.4,3.7,False
+2025,Instituto Politécnico de Tomar,3240,Escola Superior de Gestão de Tomar,3241,Público,Politécnico,Gestão de Turismo,T125,CTeSP,44,0.0,2.3,40.9,2022/23_2021/22,54.5,2.3,False
+2025,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,3242,Público,Politécnico,Engenharia Civil,9089,Licenciatura,12,0.0,0.0,16.7,2022/23_,83.3,0.0,False
+2025,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,3242,Público,Politécnico,Engenharia Electrotécnica e de Computadores,9112,Licenciatura,34,0.0,0.0,23.5,2022/23_2021/22,70.6,5.9,False
+2025,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,3242,Público,Politécnico,Engenharia Informática,9119,Licenciatura,127,0.0,3.9,14.2,2022/23_2021/22,71.7,10.2,False
+2025,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,3242,Público,Politécnico,Conservação e Restauro,9380,Licenciatura,83,0.0,0.0,10.8,2022/23_2021/22,83.1,6.0,False
+2025,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,3242,Público,Politécnico,Design e Tecnologia das Artes Gráficas,9644,Licenciatura,125,0.0,0.8,11.2,2022/23_2021/22,81.6,6.4,False
+2025,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,3242,Público,Politécnico,Fotografia,9645,Licenciatura,66,0.0,6.1,28.8,2022/23_2021/22,62.1,3.0,False
+2025,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,3242,Público,Politécnico,Tecnologia Química,L142,Licenciatura,27,0.0,7.4,25.9,2022/23_2021/22,63.0,3.7,False
+2025,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,3242,Público,Politécnico,Gestão da Edificação e Obras,L186,Licenciatura,8,0.0,12.5,12.5,2022/23_2021/22,75.0,0.0,False
+2025,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,3242,Público,Politécnico,Tecnologias e Programação de Sistemas de Informação,T024,CTeSP,79,0.0,1.3,20.3,2022/23_2021/22,72.2,6.3,False
+2025,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,3242,Público,Politécnico,Análises Laboratoriais,T080,CTeSP,30,0.0,0.0,50.0,2022/23_2021/22,46.7,3.3,False
+2025,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,3242,Público,Politécnico,Design Multimédia,T175,CTeSP,50,0.0,0.0,18.0,2022/23_2021/22,80.0,2.0,False
+2025,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,3242,Público,Politécnico,Segurança e Proteção Civil,T223,CTeSP,64,0.0,1.6,35.9,2022/23_2021/22,60.9,1.6,False
+2025,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,3242,Público,Politécnico,Automação Industrial,T263,CTeSP,18,0.0,11.1,61.1,2022/23_2021/22,27.8,0.0,False
+2025,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,3242,Público,Politécnico,Tecnologia no Desporto,T589,CTeSP,2,0.0,0.0,50.0,2022/23_,50.0,0.0,True
+2025,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,3242,Público,Politécnico,Manutenção e Reabilitação de Sistemas Ferroviários,T633,CTeSP,27,0.0,3.7,33.3,2022/23_,63.0,0.0,False
+2025,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Abrantes,3243,Público,Politécnico,Engenharia Mecânica,9123,Licenciatura,43,0.0,2.3,23.3,2022/23_2021/22,72.1,2.3,False
+2025,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Abrantes,3243,Público,Politécnico,Informática e Tecnologias Multimédia,L143,Licenciatura,31,0.0,3.2,25.8,2022/23_2021/22,67.7,3.2,False
+2025,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Abrantes,3243,Público,Politécnico,Som e Imagem,T028,CTeSP,18,0.0,0.0,27.8,2022/23_,72.2,0.0,False
+2025,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Abrantes,3243,Público,Politécnico,Manutenção de Sistemas Mecatrónicos,T121,CTeSP,32,0.0,3.1,31.3,2022/23_2021/22,62.5,3.1,False
+2025,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Abrantes,3243,Público,Politécnico,Informática,T142,CTeSP,82,0.0,1.2,26.8,2022/23_2021/22,70.7,1.2,False
+2025,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Abrantes,3243,Público,Politécnico,Animação e Modelação 3D e Jogos,T543,CTeSP,53,0.0,5.7,20.8,2022/23_2021/22,71.7,1.9,False
+2026,Instituto Politécnico de Tomar,3240,Escola Superior de Gestão de Tomar,3241,Público,Politécnico,Contabilidade,9056,Licenciatura,51,2.0,2.0,19.6,2024/25_2023/24,68.6,7.8,False
+2026,Instituto Politécnico de Tomar,3240,Escola Superior de Gestão de Tomar,3241,Público,Politécnico,Gestão de Empresas,9152,Licenciatura,118,0.0,0.8,21.2,2024/25_2023/24,67.8,10.2,False
+2026,Instituto Politécnico de Tomar,3240,Escola Superior de Gestão de Tomar,3241,Público,Politécnico,Gestão de Recursos Humanos e Comportamento Organizacional,9640,Licenciatura,90,0.0,0.0,12.2,2024/25_2023/24,83.3,4.4,False
+2026,Instituto Politécnico de Tomar,3240,Escola Superior de Gestão de Tomar,3241,Público,Politécnico,Turismo e Gestão do Património Cultural,L207,Licenciatura,64,0.0,1.6,21.9,2024/25_2023/24,68.8,7.8,False
+2026,Instituto Politécnico de Tomar,3240,Escola Superior de Gestão de Tomar,3241,Público,Politécnico,Gestão Administrativa de Recursos Humanos,T016,CTeSP,74,0.0,0.0,37.8,2024/25_2023/24,60.8,1.4,False
+2026,Instituto Politécnico de Tomar,3240,Escola Superior de Gestão de Tomar,3241,Público,Politécnico,Contabilidade e Gestão,T029,CTeSP,49,0.0,8.2,51.0,2024/25_2023/24,40.8,0.0,False
+2026,Instituto Politécnico de Tomar,3240,Escola Superior de Gestão de Tomar,3241,Público,Politécnico,Contabilidade e Fiscalidade,T042,CTeSP,20,0.0,0.0,5.0,2024/25_,90.0,5.0,False
+2026,Instituto Politécnico de Tomar,3240,Escola Superior de Gestão de Tomar,3241,Público,Politécnico,Marketing Digital,T059,CTeSP,87,0.0,0.0,35.6,2024/25_2023/24,59.8,4.6,False
+2026,Instituto Politécnico de Tomar,3240,Escola Superior de Gestão de Tomar,3241,Público,Politécnico,Informática de Gestão,T067,CTeSP,29,0.0,0.0,51.7,2024/25_2023/24,44.8,3.4,False
+2026,Instituto Politécnico de Tomar,3240,Escola Superior de Gestão de Tomar,3241,Público,Politécnico,Gestão de Turismo,T125,CTeSP,33,0.0,3.0,48.5,2024/25_2023/24,48.5,0.0,False
+2026,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,3242,Público,Politécnico,Engenharia Civil,9089,Licenciatura,34,0.0,0.0,38.2,2024/25_2023/24,58.8,2.9,False
+2026,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,3242,Público,Politécnico,Engenharia Electrotécnica e de Computadores,9112,Licenciatura,59,0.0,5.1,28.8,2024/25_2023/24,64.4,1.7,False
+2026,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,3242,Público,Politécnico,Engenharia Informática,9119,Licenciatura,143,0.0,0.7,8.4,2024/25_2023/24,84.6,6.3,False
+2026,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,3242,Público,Politécnico,Conservação e Restauro,9380,Licenciatura,73,0.0,0.0,8.2,2024/25_2023/24,89.0,2.7,False
+2026,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,3242,Público,Politécnico,Design e Tecnologia das Artes Gráficas,9644,Licenciatura,101,0.0,1.0,13.9,2024/25_2023/24,81.2,4.0,False
+2026,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,3242,Público,Politécnico,Fotografia,9645,Licenciatura,52,0.0,1.9,21.2,2024/25_2023/24,71.2,5.8,False
+2026,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,3242,Público,Politécnico,Tecnologia Química,L142,Licenciatura,26,0.0,3.8,61.5,2024/25_2023/24,30.8,3.8,False
+2026,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,3242,Público,Politécnico,Gestão da Edificação e Obras,L186,Licenciatura,21,0.0,4.8,57.1,2024/25_2023/24,33.3,4.8,False
+2026,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,3242,Público,Politécnico,Tecnologias e Programação de Sistemas de Informação,T024,CTeSP,70,0.0,2.9,21.4,2024/25_2023/24,68.6,7.1,False
+2026,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,3242,Público,Politécnico,Análises Laboratoriais,T080,CTeSP,24,0.0,0.0,58.3,2024/25_2023/24,25.0,16.7,False
+2026,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,3242,Público,Politécnico,Energias Renováveis,T162,CTeSP,9,0.0,0.0,66.7,2024/25_,33.3,0.0,False
+2026,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,3242,Público,Politécnico,Design Multimédia,T175,CTeSP,50,0.0,0.0,16.0,2024/25_2023/24,84.0,0.0,False
+2026,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,3242,Público,Politécnico,Segurança e Proteção Civil,T223,CTeSP,58,0.0,1.7,36.2,2024/25_2023/24,60.3,1.7,False
+2026,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,3242,Público,Politécnico,Automação Industrial,T263,CTeSP,27,0.0,7.4,55.6,2024/25_2023/24,33.3,3.7,False
+2026,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,3242,Público,Politécnico,Tecnologia no Desporto,T589,CTeSP,12,0.0,0.0,16.7,2024/25_2023/24,83.3,0.0,False
+2026,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,3242,Público,Politécnico,Manutenção e Reabilitação de Sistemas Ferroviários,T633,CTeSP,34,0.0,2.9,38.2,2024/25_2023/24,58.8,0.0,False
+2026,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Abrantes,3243,Público,Politécnico,Engenharia Mecânica,9123,Licenciatura,34,0.0,2.9,29.4,2024/25_2023/24,64.7,2.9,False
+2026,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Abrantes,3243,Público,Politécnico,Informática e Tecnologias Multimédia,L143,Licenciatura,37,0.0,0.0,40.5,2024/25_2023/24,56.8,2.7,False
+2026,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Abrantes,3243,Público,Politécnico,Computação e Logística,L211,Licenciatura,11,0.0,18.2,81.8,2024/25_,0.0,0.0,False
+2026,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Abrantes,3243,Público,Politécnico,Comunicação Social: Jornalismo e Comunicação Empresarial,L297,Licenciatura,50,0.0,2.0,16.0,2024/25_,76.0,6.0,False
+2026,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Abrantes,3243,Público,Politécnico,Som e Imagem,T028,CTeSP,36,0.0,0.0,38.9,2024/25_2023/24,61.1,0.0,False
+2026,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Abrantes,3243,Público,Politécnico,Manutenção de Sistemas Mecatrónicos,T121,CTeSP,40,0.0,5.0,52.5,2024/25_2023/24,37.5,5.0,False
+2026,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Abrantes,3243,Público,Politécnico,Informática,T142,CTeSP,84,0.0,0.0,35.7,2024/25_2023/24,61.9,2.4,False
+2026,Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Abrantes,3243,Público,Politécnico,Animação e Modelação 3D e Jogos,T543,CTeSP,56,0.0,7.1,30.4,2024/25_2023/24,58.9,3.6,False

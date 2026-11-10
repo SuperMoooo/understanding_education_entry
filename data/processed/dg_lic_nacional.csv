@@ -1,0 +1,8 @@
+ano_letivo_diploma,n_diplomados,pct_mestrado,pct_doutoramento,pct_especializacao,pct_outro_nivel,pct_nao_encontrados,fonte,relatorio_ate,relatorios_discordam,amostra_pequena
+2013/2014,41682,34,0,1,1,64,dgeec_lic_2019_20,2019/2020,False,False
+2014/2015,40600,35,0,1,1,64,dgeec_lic_2019_20,2019/2020,False,False
+2015/2016,39055,36,0,1,1,62,dgeec_lic_2019_20,2019/2020,False,False
+2016/2017,39815,36,0,1,1,62,dgeec_lic_2019_20,2019/2020,False,False
+2017/2018,41641,36,0,0,1,63,dgeec_lic_2019_20,2019/2020,False,False
+2018/2019,41552,36,0,0,1,63,dgeec_lic_2019_20,2019/2020,False,False
+2019/2020,44975,38,0,1,1,61,dgeec_lic_2019_20,2019/2020,False,False

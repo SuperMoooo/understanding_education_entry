@@ -1,0 +1,34 @@
+Percurso do aluno de CTeSP no IPT: quem entra -> quantos entram -> quantos abandonam
+-> quantos concluem -> quantos prosseguem -> com que nota saem.
+
+1. Quem entra (perfil dos alunos):
+- idade, sexo e nacionalidade dos alunos de CTeSP
+- diferenças face à licenciatura
+
+2. Procura pelo CTeSP:
+- o n.º de inscritos está a crescer ou a encolher?
+- que cursos crescem, diminuem, abriram ou fecharam?
+- (alternativa à pergunta "Vagas para o CTeSP", no fim)
+
+3. Abandono no CTeSP:
+- %
+- comparação com outras escolas
+- depende do curso ou da escola (ESTT, ESGT, ESTA)? do tamanho ou do perfil do curso?
+
+4. CTeSP vs Licenciatura:
+- % de Abandono
+- conclusão no tempo esperado
+
+5. Prosseguimento para Licenciatura através do CTeSP:
+- % de CTeSP foi para Licenciatura
+- quantos foram para o UPTomar ou para outra escola (más condições?)
+
+6. Notas finais:
+- que nota têm os diplomados de CTeSP?
+- comparação com a licenciatura e com outros politécnicos
+
+[NÃO FOI POSSÍVEL RESPONDER] Vagas para o CTeSP:
+- quantas abre e quantas preenchidas?
+- motivo: as vagas dos CTeSP são fixadas por cada instituição e nenhuma fonte pública
+  agregada (InfoCursos, DGEEC, DGES) publica vagas nem colocados. Seria preciso recolher os
+  editais de cada escola ou pedir os dados aos serviços académicos. Ver a pergunta 2 (procura).

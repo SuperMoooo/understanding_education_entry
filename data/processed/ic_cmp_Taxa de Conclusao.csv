@@ -1,0 +1,48 @@
+edicao,Estabelecimento,Grau,n_cursos,NumeroInscritosPrimeiroAnoPrimeiraVez,PercentagemConclusaoTempoEsperado,PercentagemConclusaoTempoEsperadoMaisUmAno,PercentagemConclusaoTempoEsperadoMaisTresAnos,eh_instituicao
+2026,Escola Superior Náutica Infante D. Henrique,CTeSP,1,25,36.0,56.0,60.0,False
+2026,Instituto Politécnico da Guarda,CTeSP,6,150,15.32,18.678,20.01266666666667,False
+2026,Instituto Politécnico de Beja,CTeSP,15,299,37.47391304347825,42.47023411371237,45.81839464882943,False
+2026,Instituto Politécnico de Bragança,CTeSP,23,418,38.98995215311005,45.69377990430622,49.05311004784689,False
+2026,Instituto Politécnico de Castelo Branco,CTeSP,11,195,52.82820512820513,59.99179487179488,62.56666666666667,False
+2026,Instituto Politécnico de Coimbra,CTeSP,10,194,53.59226804123711,58.25567010309278,60.3180412371134,False
+2026,Instituto Politécnico de Leiria,CTeSP,31,901,50.39999999999999,56.60455049944506,58.48534961154272,False
+2026,Instituto Politécnico de Portalegre,CTeSP,5,63,49.20476190476191,60.30476190476191,60.30476190476191,False
+2026,Instituto Politécnico de Santarém,CTeSP,13,286,40.21223776223776,46.1541958041958,49.64825174825175,False
+2026,Instituto Politécnico de Setúbal,CTeSP,20,476,49.15840336134454,54.21323529411764,57.14705882352941,False
+2026,Instituto Politécnico de Tomar,CTeSP,9,176,30.11420454545455,34.67443181818182,38.08352272727273,True
+2026,Instituto Politécnico de Viana do Castelo,CTeSP,14,321,44.86105919003115,49.53489096573208,52.94984423676011,False
+2026,Instituto Politécnico de Viseu,CTeSP,19,308,38.96818181818182,46.10292207792208,49.01883116883117,False
+2026,Instituto Politécnico do Cávado e do Ave,CTeSP,19,576,59.73385416666666,63.37152777777779,64.9263888888889,False
+2026,Instituto Politécnico do Porto,CTeSP,13,304,45.0654605263158,54.60460526315788,56.9032894736842,False
+2026,Universidade da Madeira,CTeSP,6,125,49.59120000000001,56.79279999999999,59.2112,False
+2026,Universidade de Aveiro,CTeSP,13,271,42.80184501845018,49.82287822878229,51.66863468634686,False
+2026,Universidade de Trás-os-Montes e Alto Douro,CTeSP,1,18,77.8,77.8,77.8,False
+2026,Universidade do Algarve,CTeSP,6,120,44.98999999999999,52.515,53.355,False
+2026,Universidade dos Açores,CTeSP,1,7,57.1,57.1,57.1,False
+2026,Escola Superior Náutica Infante D. Henrique,Licenciatura,5,157,42.03057324840764,56.69235668789808,64.33821656050955,False
+2026,Escola Superior de Hotelaria e Turismo do Estoril,Licenciatura,5,288,64.23090277777777,73.26006944444445,75.69479166666666,False
+2026,Instituto Politécnico da Guarda,Licenciatura,18,640,42.02265625,52.04468749999999,56.57625,False
+2026,Instituto Politécnico de Beja,Licenciatura,14,546,42.67912087912089,54.94267399267399,60.63406593406593,False
+2026,Instituto Politécnico de Bragança,Licenciatura,37,1564,37.79341432225064,48.14437340153453,54.40869565217391,False
+2026,Instituto Politécnico de Castelo Branco,Licenciatura,26,914,48.36761487964989,57.66411378555799,61.27221006564552,False
+2026,Instituto Politécnico de Coimbra,Licenciatura,46,2063,49.7374697043141,58.99801260300532,67.00324769752788,False
+2026,Instituto Politécnico de Leiria,Licenciatura,45,2059,53.37348227294804,62.93084021369597,67.79533754249636,False
+2026,Instituto Politécnico de Lisboa,Licenciatura,44,2284,51.53353765323993,62.29877408056042,67.20534150612961,False
+2026,Instituto Politécnico de Portalegre,Licenciatura,13,404,52.47376237623763,65.08613861386138,69.04405940594059,False
+2026,Instituto Politécnico de Santarém,Licenciatura,14,571,46.60647985989492,63.23957968476356,66.73432574430822,False
+2026,Instituto Politécnico de Setúbal,Licenciatura,27,1113,43.31123090745731,51.11581311769991,55.61446540880502,False
+2026,Instituto Politécnico de Tomar,Licenciatura,11,320,39.3690625,50.3190625,56.54718750000001,True
+2026,Instituto Politécnico de Viana do Castelo,Licenciatura,22,822,50.4889294403893,62.41034063260341,68.13807785888076,False
+2026,Instituto Politécnico de Viseu,Licenciatura,26,1127,49.33646850044366,59.26237799467613,63.4433007985803,False
+2026,Instituto Politécnico do Cávado e do Ave,Licenciatura,21,862,57.08120649651973,65.19245939675174,68.44419953596288,False
+2026,Instituto Politécnico do Porto,Licenciatura,65,3316,47.56188178528348,57.81351025331724,63.87047647768396,False
+2026,Universidade da Madeira,Licenciatura,2,66,81.80909090909091,89.37272727272727,89.37272727272727,False
+2026,Universidade de Aveiro,Licenciatura,14,527,54.83130929791271,66.0237191650854,70.0214421252372,False
+2026,Universidade de Coimbra,Licenciatura,1,363,80.4,87.9,90.1,False
+2026,Universidade de Lisboa,Licenciatura,1,320,71.6,81.9,84.7,False
+2026,Universidade de Trás-os-Montes e Alto Douro,Licenciatura,1,104,85.6,90.4,90.4,False
+2026,Universidade de Évora,Licenciatura,1,74,83.8,87.8,87.8,False
+2026,Universidade do Algarve,Licenciatura,21,883,48.25209513023783,58.65311438278597,62.40770101925254,False
+2026,Universidade do Minho,Licenciatura,1,93,80.6,87.1,88.2,False
+2026,Universidade do Porto,Licenciatura,1,286,72.4,80.8,81.8,False
+2026,Universidade dos Açores,Licenciatura,2,95,71.56947368421054,79.98,85.26842105263158,False

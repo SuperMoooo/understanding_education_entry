@@ -1,0 +1,18 @@
+[project]
+name = "understanding_education_entry"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [
+    { name = "SuperMoooo", email = "andremontoito@gmail.com" }
+]
+requires-python = ">=3.13"
+dependencies = [
+    "ipykernel>=7.4.0",
+    "openpyxl>=3.1.5",
+    "pandas>=3.1.1",
+    "pdfplumber>=0.11.10",
+    "requests>=2.34.2",
+    "streamlit>=1.67.0",
+    "truststore>=0.10.5",
+]
