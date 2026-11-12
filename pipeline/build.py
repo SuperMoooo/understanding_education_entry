@@ -3,6 +3,8 @@
 Sheets (prefix ic_ = InfoCursos, dg_ = DGEEC):
   ic_<sheet>             institution rows of every InfoCursos sheet, all editions
   ic_cmp_<sheet>         latest edition: weighted % by public polytechnic x degree
+  ic_Percurso Coorte     one entry cohort followed course by course (situation after year 1
+                         + conclusion), every public polytechnic: see percurso.py
   dg_ctesp_ipt           CTeSP graduates' situation next year, institution, one row/year
   dg_ctesp_nacional      same, national
   dg_lic_ipt / dg_lic_nacional   licenciatura graduates (for comparison)
@@ -17,7 +19,7 @@ from collections import defaultdict
 
 import pandas as pd
 
-from . import config, extract_dgeec, extract_infocursos
+from . import config, extract_dgeec, extract_infocursos, percurso
 from .fetch import load_sources
 
 
@@ -47,6 +49,7 @@ def build() -> dict[str, pd.DataFrame]:
 
     # --- InfoCursos -------------------------------------------------------
     per_sheet: dict[str, list[pd.DataFrame]] = defaultdict(list)
+    all_rows: dict[str, list[pd.DataFrame]] = defaultdict(list)  # every institution
     latest: dict[str, pd.DataFrame] = {}
     latest_ed = -1
     for _sid, path in sorted(files.get("infocursos", []), key=lambda t: str(t[1])):
@@ -57,6 +60,8 @@ def build() -> dict[str, pd.DataFrame]:
         ed = extract_infocursos.edition_of(path) or 0
         for name, df in wb.items():
             per_sheet[name].append(df[extract_infocursos.is_institution(df)])
+            if name in percurso.SHEETS:
+                all_rows[name].append(df)
         if ed > latest_ed:
             latest_ed, latest = ed, wb
     for name, frames in per_sheet.items():
@@ -65,6 +70,9 @@ def build() -> dict[str, pd.DataFrame]:
         cmp = extract_infocursos.peer_comparison(df)
         if cmp is not None:
             sheets[_sheet(f"ic_cmp_{name}")] = cmp
+    coorte = percurso.build(all_rows)
+    if coorte is not None:
+        sheets["ic_Percurso Coorte"] = coorte
 
     # --- DGEEC ------------------------------------------------------------
     for parser, short in (("dgeec_ctesp", "ctesp"), ("dgeec_licenciatura", "lic")):

@@ -76,6 +76,28 @@ PERFIL = {  # indicador -> (rótulo, explicação)
 NOTAS = {f"PercentagemNota{k}": k for k in range(10, 21)}
 W_NOTA = "NumeroDiplomados2AnosRaides"
 
+# Percurso de uma coorte (ic_Percurso Coorte): em que ano do curso se perdem os alunos.
+# Ordem da barra: perdas no 1.º ano -> perdas depois -> neutro -> conclusão (divergente).
+SAIU_1, SAIU_2 = "PercentagemSaiuEnsinoSuperior1Ano", "PercentagemSaiuDepois1Ano"
+MUDOU_1, CONTINUOU_1 = "PercentagemMudouCurso1Ano", "PercentagemContinuou1Ano"
+CONC_N, CONC_N3 = (
+    "PercentagemConclusaoTempoEsperado",
+    "PercentagemConclusaoTempoEsperadoMaisTresAnos",
+)
+PERCURSO = {
+    SAIU_1: "Saiu no 1.º ano",
+    SAIU_2: "Saiu no 2.º ano ou depois",
+    MUDOU_1: "Mudou de curso/escola no 1.º ano",
+    "concluiu_atraso": "Concluiu com atraso (até +3 anos)",
+    CONC_N: "Concluiu no tempo esperado",
+}
+CORES_PERCURSO = alt.Scale(
+    domain=list(PERCURSO.values()),
+    range=["#c23b3b", "#f09a92", "#6b717b", "#86b6ef", "#2a78d6"],
+)
+FUNDO_ESCURO = {SAIU_1, MUDOU_1, CONC_N}  # texto branco por cima destas cores
+W_PC = "NumeroNovosInscritos"
+
 
 # --------------------------------------------------------------------------- dados
 @st.cache_data
@@ -167,9 +189,15 @@ def indicadores_perfil(p: pd.DataFrame, by: list[str]) -> pd.DataFrame:
 
 # --------------------------------------------------------------------------- gráficos
 def ranking(
-    cmp: pd.DataFrame, grau: str, col: str, titulo: str, fmt: str = ".1f"
+    cmp: pd.DataFrame,
+    grau: str,
+    col: str,
+    titulo: str,
+    fmt: str = ".1f",
+    quando: str | None = None,
 ) -> None:
-    """Barras horizontais, uma por politécnico público; a instituição a vermelho."""
+    """Barras horizontais, uma por politécnico público; a instituição a verde.
+    `quando` substitui "edição N" na legenda (p. ex. as coortes seguidas)."""
     d = cmp[(cmp["Grau"] == grau)].dropna(subset=[col]).copy()
     if d.empty:
         st.info("Sem dados de comparação.")
@@ -200,7 +228,7 @@ def ranking(
     if len(pos):
         st.caption(
             f"Tomar: {pos[0] + 1}.º valor mais alto em {len(d)} politécnicos públicos "
-            f"(edição {int(d['edicao'].iat[0])})."
+            f"({quando or 'edição ' + str(int(d['edicao'].iat[0]))})."
         )
 
 
@@ -230,6 +258,67 @@ def barras_empilhadas(df: pd.DataFrame, y: str, mapa: dict, titulo_y=None) -> al
             tooltip=[y, "indicador", alt.Tooltip("pct:Q", format=".1f", title="%")],
         )
     )
+
+
+def percurso_agregado(df: pd.DataFrame, by: list[str]) -> pd.DataFrame:
+    """Médias ponderadas do percurso + as partes que a barra precisa."""
+    a = ponderada(df, by, [SAIU_1, MUDOU_1, CONTINUOU_1, SAIU_2, CONC_N, CONC_N3], W_PC)
+    a["concluiu_atraso"] = a[CONC_N3] - a[CONC_N]
+    # dos que ainda estavam no curso 1 ano depois, quantos não concluíram
+    a["nao_conclui_apos_1"] = 100 * a[SAIU_2] / a[CONTINUOU_1]
+    return a
+
+
+def barras_percurso(df: pd.DataFrame, y: str) -> alt.LayerChart:
+    """Uma barra por linha de df: o que aconteceu a 100 alunos que entraram, com o % escrito
+    nos segmentos com espaço para isso."""
+    long = df.melt(
+        id_vars=[y, W_PC], value_vars=list(PERCURSO), var_name="k", value_name="pct"
+    )
+    long["pct"] = long["pct"].fillna(0)
+    long["resultado"] = long["k"].map(PERCURSO)
+    long["ordem"] = long["k"].map({k: i for i, k in enumerate(PERCURSO)})
+    long = long.sort_values([y, "ordem"])
+    long["fim"] = long.groupby(y)["pct"].cumsum()
+    long["inicio"] = long["fim"] - long["pct"]
+    long["meio"] = (long["inicio"] + long["fim"]) / 2
+    long["escuro"] = long["k"].isin(FUNDO_ESCURO)
+    base = alt.Chart(long).encode(
+        y=alt.Y(f"{y}:N", sort=list(df[y]), title=None, axis=alt.Axis(labelLimit=340))
+    )
+    barras = base.mark_bar().encode(
+        x=alt.X(
+            "inicio:Q",
+            title="% dos alunos que entraram no 1.º ano",
+            scale=alt.Scale(domain=[0, 100], nice=False, clamp=True),
+        ),
+        x2="fim:Q",
+        color=alt.Color(
+            "resultado:N",
+            scale=CORES_PERCURSO,
+            sort=list(PERCURSO.values()),
+            title=None,
+            legend=alt.Legend(orient="bottom", columns=3),
+        ),
+        tooltip=[
+            alt.Tooltip(f"{y}:N", title="grupo"),
+            "resultado",
+            alt.Tooltip("pct:Q", format=".1f", title="%"),
+            alt.Tooltip(f"{W_PC}:Q", title="alunos que entraram"),
+        ],
+    )
+    texto = (
+        base.transform_filter(alt.datum.pct >= 6)
+        .mark_text(fontSize=11)
+        .encode(
+            x="meio:Q",
+            text=alt.Text("pct:Q", format=".0f"),
+            color=alt.condition(
+                alt.datum.escuro, alt.value("#ffffff"), alt.value("#0b0b0b")
+            ),
+        )
+    )
+    return barras + texto
 
 
 def linhas(
@@ -286,6 +375,17 @@ serie["coortes"] = serie["edicao"].map(
 perfil = perfil_por_curso()
 if not perfil.empty:
     perfil = filtrar_amostras(perfil)
+
+# percurso: a coorte mais recente que já se consegue seguir até ao fim, por grau
+perc = load("ic_Percurso Coorte")
+if not perc.empty:
+    perc = perc[perc["edicao"] == perc.groupby("Grau")["edicao"].transform("max")]
+    coorte_ipt = filtrar_amostras(perc[perc["eh_instituicao"].astype(bool)])
+    coorte_ipt_g = percurso_agregado(coorte_ipt, ["Grau"])
+    coorte_ipt_g["grupo"] = "IPT · " + coorte_ipt_g["Grau"]
+    coorte_par_g = percurso_agregado(perc, ["Grau"])
+    coorte_par_g["grupo"] = "Politécnicos públicos · " + coorte_par_g["Grau"]
+    coortes_seguidas = perc.groupby("Grau")["coortes"].agg(lambda s: s.mode().iat[0])
 
 tabs = st.tabs(
     [
@@ -567,6 +667,90 @@ with tabs[2]:
     )
     st.caption("O CTeSP só aparece na InfoCursos a partir da edição 2019.")
 
+    # ---- em que ano do curso saem
+    st.markdown("### Saem no 1.º ou no 2.º ano?")
+    if perc.empty or not (coorte_ipt_g["Grau"] == "CTeSP").any():
+        st.info("Sem dados para seguir uma coorte de CTeSP até ao fim do curso.")
+    else:
+        c_ipt = coorte_ipt_g.set_index("Grau").loc["CTeSP"]
+        c_par = coorte_par_g.set_index("Grau").loc["CTeSP"]
+        st.caption(
+            f"Os mesmos alunos seguidos do 1.º ano até ao diploma: entraram no CTeSP em "
+            f"{coortes_seguidas['CTeSP']}. Junta, curso a curso, a situação 1 ano após entrar com a "
+            "taxa de conclusão. “2.º ano ou depois” = ainda estava no curso 1 ano depois de "
+            "entrar, mas não o concluiu até 3 anos após o tempo esperado (5 anos depois de entrar)."
+        )
+        c1, c2, c3 = st.columns(3)
+        for col, k, rot in (
+            (c1, SAIU_1, "Saem no 1.º ano · IPT"),
+            (c2, SAIU_2, "Saem no 2.º ano ou depois · IPT"),
+            (c3, "nao_conclui_apos_1", "Dos que passam o 1.º ano, não concluem"),
+        ):
+            col.metric(
+                rot,
+                f"{c_ipt[k]:.1f} %",
+                delta=f"{c_ipt[k] - c_par[k]:+.1f} pp vs politécnicos",
+                delta_color="inverse",
+            )
+        st.altair_chart(
+            barras_percurso(
+                pd.concat([coorte_ipt_g, coorte_par_g]).query("Grau == 'CTeSP'"), "grupo"
+            ).properties(height=130),
+            width="stretch",
+        )
+        d1, d2 = c_ipt[SAIU_1] - c_par[SAIU_1], c_ipt[SAIU_2] - c_par[SAIU_2]
+        st.markdown(
+            f"Por cada **100 alunos** que entram num CTeSP do IPT, **{c_ipt[SAIU_1]:.0f}** saem do "
+            f"ensino superior logo no 1.º ano e **{c_ipt[MUDOU_1]:.0f}** mudam de curso ou de escola; "
+            f"outros **{c_ipt[SAIU_2]:.0f}** passam o 1.º ano mas não chegam a concluir. "
+            f"Face aos politécnicos públicos, a diferença está sobretudo "
+            f"**{'no 1.º ano' if d1 > d2 else 'no 2.º ano ou depois'}** "
+            f"({d1:+.1f} pp no 1.º ano, {d2:+.1f} pp depois)."
+        )
+        ed_coorte = int(perc.loc[perc["Grau"] == "CTeSP", "edicao"].iat[0])
+        todos = sit[(sit["edicao"] == ed_coorte) & (sit["Grau"] == "CTeSP")]
+        st.caption(
+            f"IPT: {int(c_ipt['n_cursos'])} de {len(todos)} cursos e {c_ipt[W_PC]:.0f} de "
+            f"{todos[W_SIT].sum():.0f} alunos; os outros cursos não têm taxa de conclusão "
+            f"publicada para todas as suas coortes. Politécnicos públicos: {int(c_par['n_cursos'])} "
+            f"cursos, {c_par[W_PC]:.0f} alunos (inclui o IPT). Médias ponderadas pelo n.º de alunos. "
+            "“Saiu no 2.º ano ou depois” inclui também quem mudou de curso mais tarde e os poucos "
+            "que ainda estão inscritos 5 anos depois."
+        )
+
+        st.markdown("#### Comparação com as outras escolas (CTeSP)")
+        coorte_inst = percurso_agregado(perc, ["Estabelecimento", "Grau"])
+        coorte_inst["eh_instituicao"] = coorte_inst["Estabelecimento"].isin(
+            perc.loc[perc["eh_instituicao"].astype(bool), "Estabelecimento"]
+        )
+        quando = f"entradas {coortes_seguidas['CTeSP']}"
+        c1, c2 = st.columns(2)
+        with c1:
+            st.markdown("**Saem no 1.º ano**")
+            ranking(coorte_inst, "CTeSP", SAIU_1, "% saiu no 1.º ano", quando=quando)
+        with c2:
+            st.markdown("**Saem no 2.º ano ou depois**")
+            ranking(coorte_inst, "CTeSP", SAIU_2, "% saiu no 2.º ano ou depois", quando=quando)
+
+        st.markdown("#### Por curso (IPT, CTeSP)")
+        coorte_cursos = coorte_ipt[coorte_ipt["Grau"] == "CTeSP"].copy()
+        coorte_cursos["concluiu_atraso"] = coorte_cursos[CONC_N3] - coorte_cursos[CONC_N]
+        coorte_cursos["curso"] = coorte_cursos["NomeCurso"]
+        dup = coorte_cursos["curso"].duplicated(keep=False)
+        coorte_cursos.loc[dup, "curso"] += " · " + nome_curto(coorte_cursos.loc[dup, "UnidadeOrganica"])
+        coorte_cursos["curso"] += " (n=" + coorte_cursos[W_PC].astype(int).astype(str) + ")"
+        coorte_cursos = coorte_cursos.assign(perda=coorte_cursos[SAIU_1] + coorte_cursos[SAIU_2]).sort_values(
+            "perda", ascending=False
+        )
+        st.altair_chart(
+            barras_percurso(coorte_cursos, "curso").properties(height=30 * len(coorte_cursos) + 60),
+            width="stretch",
+        )
+        st.caption(
+            "Ordenado pelo total que saiu sem concluir (1.º ano + depois). "
+            "Em cursos com poucos alunos, um aluno muda o valor vários pontos percentuais."
+        )
+
     # ---- por curso e escola
     st.markdown("### O abandono depende do curso ou da escola?")
     eds = sorted(sit.loc[sit["Grau"] == "CTeSP", "edicao"].unique(), reverse=True)
@@ -731,11 +915,16 @@ with tabs[3]:
             )
             .properties(width=260, height=260)
         )
-        coorte = tc.loc[
-            tc["edicao"] == ed_tc, "AnoInscritosPrimeiroAnoPrimeiraVez"
-        ].dropna()
+        coorte = (
+            tc[tc["edicao"] == ed_tc]
+            .dropna(subset=["AnoInscritosPrimeiroAnoPrimeiraVez"])
+            .groupby("Grau")["AnoInscritosPrimeiroAnoPrimeiraVez"]
+            .first()
+        )
         st.caption(
-            f"Edição {ed_tc}; coorte que entrou em {coorte.iat[0] if len(coorte) else '?'}."
+            f"Edição {ed_tc}; alunos que entraram em "
+            + "; ".join(f"{a} ({g})" for g, a in coorte.items())
+            + ". Cada grau segue uma coorte diferente."
         )
 
         grau = st.radio(
@@ -749,6 +938,46 @@ with tabs[3]:
             grau,
             "PercentagemConclusaoTempoEsperado",
             "% concluiu no tempo esperado",
+        )
+
+    st.markdown("#### Em que ano do curso se perdem alunos?")
+    if perc.empty:
+        st.info("Sem dados para seguir uma coorte até ao fim do curso.")
+    else:
+        grupos = pd.concat([coorte_ipt_g, coorte_par_g]).sort_values(
+            ["Grau", "grupo"]  # IPT antes dos politécnicos, como no separador 3
+        )
+        st.altair_chart(
+            barras_percurso(grupos, "grupo").properties(height=60 * len(grupos)),
+            width="stretch",
+        )
+        g_ipt = coorte_ipt_g.set_index("Grau")
+        if {"CTeSP", "Licenciatura"} <= set(g_ipt.index):
+            artigo = {"CTeSP": "o CTeSP", "Licenciatura": "a licenciatura"}
+            frase = [
+                f"{artigo[g]} perde mais alunos "
+                f"**{'no 1.º ano' if r[SAIU_1] > r[SAIU_2] else 'no 2.º ano ou depois'}** "
+                f"({r[SAIU_1]:.0f} contra {r[SAIU_2]:.0f} em cada 100 que entram)"
+                for g, r in g_ipt.loc[["CTeSP", "Licenciatura"]].iterrows()
+            ]
+            st.markdown("No IPT, " + "; ".join(frase) + ".")
+        dur_lic = set(
+            pd.to_numeric(
+                perc.loc[perc["Grau"] == "Licenciatura", "DuracaoCurso"], errors="coerce"
+            ).dropna()
+        )
+        st.caption(
+            "Os mesmos alunos seguidos da entrada ao diploma (situação 1 ano após entrar + "
+            "taxa de conclusão, curso a curso). Entradas: "
+            + "; ".join(f"{g} {c}" for g, c in coortes_seguidas.items())
+            + ". "
+            + (
+                "Só licenciaturas de 3 anos: as de 4 anos seguem outra coorte. "
+                if dur_lic == {3}
+                else ""
+            )
+            + "Na licenciatura, “2.º ano ou depois” cobre dois anos do curso (2.º e 3.º); "
+            "no CTeSP, só o 2.º."
         )
 
 # ---------------------------------------------------------------- 5. prosseguimento
@@ -925,6 +1154,12 @@ with tabs[6]:
 - **Perfil e procura** = todos os inscritos no curso (não só os que entraram nesse ano), InfoCursos.
 - **Abandono** = alunos *não encontrados no ensino superior* 1 ano após entrar (InfoCursos).
   Não é igual a abandono: pode ser estrangeiro, emprego ou regresso mais tarde.
+- **Em que ano saem** (1.º ano vs 2.º ano ou depois) = a mesma coorte seguida em duas folhas da
+  InfoCursos, ligadas curso a curso (`ic_Percurso Coorte`): *Situação após 1 ano* (cada edição
+  junta duas coortes de entrada) e *Taxa de conclusão* (uma coorte por edição; juntam-se duas).
+  “Saiu no 2.º ano ou depois” = ainda estava no curso 1 ano depois de entrar, mas não o concluiu
+  até 3 anos após o tempo esperado. Inclui quem mudou de curso mais tarde e os poucos ainda
+  inscritos. Só entram cursos com taxa de conclusão publicada para todas as suas coortes.
 - **Prosseguimento** = situação 1 ano após *concluir* o CTeSP (relatórios DGEEC por instituição).
   É uma medida diferente do abandono, sobre outro grupo de alunos.
 - **Notas** = classificação final dos diplomados; a média das outras escolas é calculada a partir

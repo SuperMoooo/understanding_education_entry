@@ -39,6 +39,10 @@ e o `parser` respetivo. A instituição e o grupo de comparação estão em `pip
 - `data/interim/ipt_extraido.xlsx` (+ CSVs): linhas do IPT tal como vêm da fonte.
   - `ic_<folha>`: todas as edições da InfoCursos (coluna `edicao`)
   - `ic_cmp_<folha>`: edição mais recente, média ponderada por politécnico público × grau
+  - `ic_Percurso Coorte`: a mesma coorte de entrada seguida até ao diploma, curso a curso, em
+    todos os politécnicos públicos (coluna `eh_instituicao`). Junta `Situacao Apos 1 Ano` (duas
+    coortes por edição) com `Taxa de Conclusao` (uma coorte por edição, juntam-se duas) e
+    separa quem sai no 1.º ano de quem sai depois (`pipeline/percurso.py`)
   - `dg_ctesp_ipt` / `dg_ctesp_nacional`: situação dos diplomados CTeSP no ano seguinte
   - `dg_lic_ipt` / `dg_lic_nacional`: o mesmo para licenciados (comparação)
   - `dg_*_todas`: todas as linhas de todos os relatórios, para auditar sobreposições
@@ -64,4 +68,7 @@ e o `parser` respetivo. A instituição e o grupo de comparação estão em `pip
 - "Não encontrado no ensino superior" não é o mesmo que abandono (pode ser estrangeiro,
   emprego, regresso mais tarde).
 - Abandono (1 ano após entrar) e prosseguimento (1 ano após concluir) são medidas diferentes.
+- Saída no 2.º ano ou depois = continuava no curso 1 ano após entrar − concluiu até 3 anos após
+  o tempo esperado (mínimo 0). Só se ligam cursos com a conclusão publicada para todas as
+  coortes, por isso o n.º de alunos das duas folhas coincide.
 - Na InfoCursos, `Desemprego Registado` e `Formas Ingresso` só têm licenciaturas.

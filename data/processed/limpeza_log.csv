@@ -58,4 +58,5 @@ ic_cmp_Formas Ingresso,2 harmonizar Grau,27,{'Licenciatura 1.º ciclo': 'Licenci
 ic_cmp_Situacao Apos 1 Ano,2 harmonizar Grau,27,{'Licenciatura 1.º ciclo': 'Licenciatura'}
 ic_cmp_Classificacoes Finais,2 harmonizar Grau,27,{'Licenciatura 1.º ciclo': 'Licenciatura'}
 ic_cmp_Taxa de Conclusao,2 harmonizar Grau,27,{'Licenciatura 1.º ciclo': 'Licenciatura'}
+Percurso Coorte,9 sinalizar n <= 5,6,coluna NumeroNovosInscritos; não removidas
 dg_ctesp_ipt,9 sinalizar n <= 5,1,
